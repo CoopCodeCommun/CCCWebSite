@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CCCwebsite.iml" filepath="$PROJECT_DIR$/.idea/CCCwebsite.iml" />
+      <module fileurl="file://$USER_HOME$/tmp/iota-wiki/.idea/iota-wiki.iml" filepath="$USER_HOME$/tmp/iota-wiki/.idea/iota-wiki.iml" />
     </modules>
   </component>
 </project>

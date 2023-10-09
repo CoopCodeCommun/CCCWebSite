@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Coopérative Code Commun',
-  tagline: 'Fabrique de communs numériques.',
+  tagline: 'Fabrique de communs numériques',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.codecommun.co/',
+  url: 'https://www.codecommun.coop/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Coopérative Code Commun',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Rocket Chat',
-                href: 'https://chat.communecter.org/channel/Tibillet',
+                href: 'https://chat.tiers-lieux.org/channel/TiBillet',
               },
               {
                 label: 'Discord',
