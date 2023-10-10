@@ -4,15 +4,15 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ### Installation
 
-```
-$ npx create-docusaurus@latest CCCwebsite classic --typescript
+Install Node & Volta
+
+```bash
+npm i
 ```
 
 ### Local Development
 
 ```bash
-npm install
-
 npm start
 # ou
 npx docusaurus start
@@ -20,6 +20,6 @@ npx docusaurus start
 
 ### Deployment
 
-```
+```bash
 npx docusaurus deploy
 ```
