@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Axel CHABRAN',
-        Svg: require('@site/static/img/undraw_multitasking_re_ffpb.svg').default,
+        Svg: require('@site/static/img/AxelLoupe.svg').default,
         description: (
             <>
                 President trés coopératif. Cognitovo scientist.
@@ -47,7 +47,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Mike CARON',
-        Svg: require('@site/static/img/undraw_launching_re_tomg.svg').default,
+        Svg: require('@site/static/img/MikeCadre.svg').default,
         description: (
             <>
                 Bionic Feet FabMaster.
