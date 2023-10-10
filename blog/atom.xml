@@ -8,9 +8,9 @@
     <subtitle>Coopérative Code Commun Blog</subtitle>
     <icon>https://codecommun.coop/img/CCClogo_node_color.svg</icon>
     <entry>
-        <title type="html"><![CDATA[First]]></title>
-        <id>https://codecommun.coop/blog/first</id>
-        <link href="https://codecommun.coop/blog/first"/>
+        <title type="html"><![CDATA[Première note de blog !]]></title>
+        <id>https://codecommun.coop/blog/prems</id>
+        <link href="https://codecommun.coop/blog/prems"/>
         <updated>2023-10-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bienvenue sur le blog de la Coopérative Code Commun ! Nous allons essayer de vous expliquer ce que nous faisons, comment nous le faisons, pourquoi nous avons fait comme ça et tout ce qui nous motive !]]></summary>
         <content type="html"><![CDATA[<p>Tout l'équipe de la Coopérative Code Commun vous souhaite la bienvenue sur notre blog !</p><p><img loading="lazy" alt="/img/Graphical_codecommun540.png" src="/assets/images/Graphical_codecommun540-1af3799070ac1f76f882b68b1a18fc66.png" width="540" height="535" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="historique-et-origine">Historique et origine<a href="#historique-et-origine" class="hash-link" aria-label="Lien direct vers Historique et origine" title="Lien direct vers Historique et origine">​</a></h2><p>A l'origine du projet de la Coopérative, il y a <a href="https://tibillet.org" target="_blank" rel="noopener noreferrer">TiBillet</a>, le Manapany Festival et l'association
