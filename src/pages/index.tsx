@@ -25,7 +25,7 @@ export default function Home(): JSX.Element {
     return (
         <Layout
             title={`${siteConfig.title}`}
-            description="Coopérative Code Commun, fabrique numérique">
+            description="Coopérative Code Commun, fabrique de commun numérique">
             <HomepageHeader/>
             <main>
                 <HomepageFeatures/>

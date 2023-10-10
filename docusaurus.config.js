@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Coopérative Code Commun',
   tagline: 'Fabrique de communs numériques',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/CCClogo_node_color.svg',
 
   // Set the production url of your site here
   url: 'https://www.codecommun.coop/',
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/CCClogo_node_color.svg',
       navbar: {
         title: 'Coopérative Code Commun',
         logo: {
           alt: 'Logo',
-          src: 'img/CCClogo.png',
+          src: 'img/CCClogo_node_color.svg',
         },
         items: [
           {
