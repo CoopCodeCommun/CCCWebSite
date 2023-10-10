@@ -76,7 +76,8 @@ const config = {
                         position: 'left',
                         label: 'Créations',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {to: '/blog', label: 'Recettes', position: 'left'},
+                    {to: '/sysadmin', label: 'Hebergement', position: 'left'},
                     {
                         href: 'https://github.com/CoopCodeCommun/',
                         label: 'GitHub',
@@ -117,7 +118,7 @@ const config = {
                         title: 'More',
                         items: [
                             {
-                                label: 'Blog',
+                                label: 'Recettes',
                                 to: '/blog',
                             },
                             {
