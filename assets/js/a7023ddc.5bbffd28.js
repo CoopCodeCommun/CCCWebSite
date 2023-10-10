@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"Coop\xe9rative","permalink":"/blog/tags/cooperative","count":1},{"label":"Code Commun","permalink":"/blog/tags/code-commun","count":1},{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":2}]')}}]);

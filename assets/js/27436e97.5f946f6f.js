@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[988],{7412:e=>{e.exports=JSON.parse('{"label":"Code Commun","permalink":"/blog/tags/code-commun","allTagsPath":"/blog/tags","count":1}')}}]);
