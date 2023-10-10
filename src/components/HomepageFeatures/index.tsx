@@ -3,68 +3,83 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 type FeatureItem = {
-  title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: JSX.Element;
+    title: string;
+    Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+    description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
+    {
+        title: 'Nicolas DIJOUX',
+        Svg: require('@site/static/img/undraw_pancakes_238t.svg').default,
+        description: (
+            <>
+                Fullstack Javascript. Kréol Framework Maker.
+            </>
+        ),
+    },
+    {
+        title: 'Axel CHABRAN',
+        Svg: require('@site/static/img/undraw_multitasking_re_ffpb.svg').default,
+        description: (
+            <>
+                President trés coopératif. Cognitovo scientist.
+            </>
+        ),
+    },
+    {
+        title: 'Jonas TURBEAUX',
+        Svg: require('@site/static/img/jojoCable.svg').default,
+        description: (
+            <>
+                Fullstack Python. Rêveur de code.
+            </>
+        ),
+    },
+    {
+        title: 'Glen Llaci',
+        Svg: require('@site/static/img/undraw_statistic_chart_re_w0pk.svg').default,
+        description: (
+            <>
+                Charmeur de serpents sur ruby.
+            </>
+        ),
+    },
+    {
+        title: 'Mike CARON',
+        Svg: require('@site/static/img/undraw_launching_re_tomg.svg').default,
+        description: (
+            <>
+                Bionic Feet FabMaster.
+            </>
+        ),
+    },
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
+    return (
+        <div className={clsx('col col--4')}>
+            <div className="text--center">
+                <Svg className={styles.featureSvg} role="img"/>
+            </div>
+            <div className="text--center padding-horiz--md">
+                <h3>{title}</h3>
+                <p>{description}</p>
+            </div>
+        </div>
+    );
 }
 
 export default function HomepageFeatures(): JSX.Element {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
+    return (
+        <section className={styles.features}>
+            <div className="container">
+                <div className="row">
+                    {FeatureList.map((props, idx) => (
+                        <Feature key={idx} {...props} />
+                    ))}
+                </div>
+            </div>
+        </section>
+    );
 }

@@ -67,14 +67,14 @@ const config = {
         title: 'Coopérative Code Commun',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/CCClogo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Créations',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
