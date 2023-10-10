@@ -9,6 +9,7 @@ const config = {
     title: 'Coopérative Code Commun',
     tagline: 'Fabrique de communs numériques',
     favicon: 'img/CCClogo_node_color.svg',
+    scripts: [{src: 'https://plausible.codecommun.co/js/script.js', defer: true, 'data-domain': 'codecommun.coop'}],
 
     // Set the production url of your site here
     url: 'https://codecommun.coop/',
