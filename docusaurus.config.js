@@ -47,8 +47,11 @@ const config = {
                 },
                 blog: {
                     showReadingTime: true,
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
+                    blogTitle: 'Code Commun, le blog.',
+                    blogDescription: 'Les recettes de la coopérative pour de chouettes communs numériques.',
+                    postsPerPage: 'ALL',
+                    blogSidebarTitle: 'All posts',
+                    blogSidebarCount: 'ALL',
                     editUrl:
                         'https://github.com/CoopCodeCommun/CCCWebSite/',
                 },
