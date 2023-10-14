@@ -2,7 +2,7 @@
 slug: jonas
 title: Jonas TURBEAUX
 description: Développeur FullStack python et adminstrateur système linux polyvalent.
-tags: [ tibillet, python, linux ]
+tags: [ tibillet, python, linux, audiovisuel, son, vidéo, musique, django, docker, docker-compose, htmx, ]
 image: /img/Graphical_codecommun270.png
 ---
 
