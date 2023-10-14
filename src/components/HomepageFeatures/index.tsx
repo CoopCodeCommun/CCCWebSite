@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/AxelLoupe.svg').default,
         description: (
             <>
-                President trés coopératif. Cognitovo scientist.
+                President coopératif. Cognito scientist.
             </>
         ),
     },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/jojoCable.svg').default,
         description: (
             <>
-                Fullstack Python. Rêveur de code.
+                Fullstack Python. Maker d'utopie.
             </>
         ),
     },
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/MikeCadre.svg').default,
         description: (
             <>
-                Bionic Feet FabMaster.
+                Bionic FabLabeur.
             </>
         ),
     },
