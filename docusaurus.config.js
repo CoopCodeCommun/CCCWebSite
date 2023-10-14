@@ -74,14 +74,16 @@ const config = {
                     src: 'img/CCClogo_node_color.svg',
                 },
                 items: [
-                    {
-                        type: 'docSidebar',
-                        sidebarId: 'tutorialSidebar',
-                        position: 'left',
-                        label: 'Créations',
-                    },
+                    // {
+                    //     type: 'docSidebar',
+                    //     sidebarId: 'tutorialSidebar',
+                    //     position: 'left',
+                    //     label: 'Créations',
+                    // },
+                    {to: '/docs/category/équipe', label: 'Équipe', position: 'left'},
+                    {to: '/docs/category/créations', label: 'Créations', position: 'left'},
+                    {to: '/docs/category/services', label: 'Services', position: 'left'},
                     {to: '/blog', label: 'Recettes', position: 'left'},
-                    {to: '/sysadmin', label: 'Hebergement', position: 'left'},
                     {
                         href: 'https://github.com/CoopCodeCommun/',
                         label: 'GitHub',
@@ -93,20 +95,28 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Créations',
+                        title: 'Coopérative Code Commun',
                         items: [
                             {
-                                label: 'Présentation',
-                                to: '/docs/intro',
+                                label: 'Équipe',
+                                to: '/docs/category/équipe',
                             },
                             {
-                                label: 'TiBillet',
-                                to: '/docs/category/tibillet--event',
+                                label: 'Créations',
+                                to: '/docs/category/créations',
+                            },
+                            {
+                                label: 'Services',
+                                to: '/docs/category/services',
+                            },
+                            {
+                                label: 'Blog',
+                                to: '/blog',
                             },
                         ],
                     },
                     {
-                        title: 'Community',
+                        title: 'Communauté',
                         items: [
                             {
                                 label: 'Rocket Chat',
@@ -119,15 +129,15 @@ const config = {
                         ],
                     },
                     {
-                        title: 'More',
+                        title: 'Codes sources',
                         items: [
                             {
-                                label: 'Recettes',
-                                to: '/blog',
+                                label: 'GitHub Coopérative',
+                                href: 'https://github.com/CoopCodeCommun/',
                             },
                             {
-                                label: 'GitHub',
-                                href: 'https://github.com/CoopCodeCommun/',
+                                label: 'GitHub TiBIllet',
+                                href: 'https://github.com/TiBillet/',
                             },
                         ],
                     },

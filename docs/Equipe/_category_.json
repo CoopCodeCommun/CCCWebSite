@@ -1,0 +1,8 @@
+{
+  "label": "Équipe",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Présentation des membres de la coopérative."
+  }
+}

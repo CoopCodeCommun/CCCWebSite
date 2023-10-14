@@ -1,0 +1,8 @@
+{
+  "label": "Créations",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Présentation des outils développés et maintenus par la coopérative."
+  }
+}
