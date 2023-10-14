@@ -9,7 +9,7 @@ image: /img/Graphical_codecommun270.png
 # Jonas TURBEAUX
 
 Co-fondateur de la coopérative, je module entre deux passions : La musique et le logiciel libre.
-C'est donc tout naturellement et avec énormément de plaisir que j'exerce mes compétences dans deux principaux
+C'est donc tout avec énormément de plaisir que j'exerce mes compétences dans deux principaux
 domaines : l'audiovisuel et l'informatique.
 
 ## Compétences Informatiques :
