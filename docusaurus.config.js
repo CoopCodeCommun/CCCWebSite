@@ -66,7 +66,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
-            image: 'img/CCClogo_node_color.svg',
+            image: 'img/Graphical_codecommun270.png',
+            metadata: [{
+                name: 'keywords',
+                content: "Logiciel libre, coopérative, développement, informatique, Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"
+            }],
+
             navbar: {
                 title: 'Coopérative Code Commun',
                 logo: {
