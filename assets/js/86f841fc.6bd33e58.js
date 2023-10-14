@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[604],{7925:e=>{e.exports=JSON.parse('{"label":"origine","permalink":"/blog/tags/origine","allTagsPath":"/blog/tags","count":1}')}}]);

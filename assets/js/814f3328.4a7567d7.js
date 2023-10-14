@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Premi\xe8re note de blog !","permalink":"/blog/prems"}]}')}}]);
