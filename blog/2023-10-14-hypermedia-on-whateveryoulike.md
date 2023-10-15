@@ -2,7 +2,7 @@
 slug: howl
 title: HOWL - Hypermedia partout
 authors: [ jonas ]
-description: HOWL, ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
+description: Sobriété, simplicité dans notre code de développement. HOWL ! ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
 tags: [ blog, tibillet, histoire, origine ]
 image: /img/blog/hypermedia/whowillwin.png
 draft: false
@@ -13,7 +13,8 @@ draft: false
 ### TLDR :
 
 Libérez vous de la pression qu'apporte le Javascript partout. Lorsque vous utilisez une approche hypermédia pour votre
-application web, vous êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à vos goûts techniques.
+application web, vous êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à
+vos goûts techniques.
 
 ![/img/blog/hypermedia/whowillwin.png](/img/blog/hypermedia/whowillwin.png)
 
@@ -22,7 +23,8 @@ application web, vous êtes libre de choisir la technologie côté serveur qui c
 Nous souhaitons à travers ce blog partager des articles, des tips, des philosophies ou des idées qui ont un rapport de
 près ou de loin avec les projets de la coopérative.
 
-Je vais donc commencer par un concept que je découvre récemment (depuis un an ou deux.) et dont j'aime discuter : la "pile HOWL".
+Je vais donc commencer par un concept que je découvre récemment (depuis un an ou deux.) et dont j'aime discuter : la "
+pile HOWL".
 
 HOWL est l'acronyme de Hypermedia On Whatever you'd Like.
 
