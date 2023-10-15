@@ -4,7 +4,7 @@ title: HOWL - Hypermedia partout
 authors: [ jonas ]
 description: HOWL, ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
 tags: [ blog, tibillet, histoire, origine ]
-image: /img/blog/hypermedia/htmlvsjson.png
+image: /img/blog/hypermedia/whowillwin.png
 draft: false
 ---
 
@@ -15,7 +15,7 @@ draft: false
 Libérez vous de la pression qu'apporte le Javascript partout. Lorsque vous utilisez une approche hypermédia pour votre
 application web, vous êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à vos goûts techniques.
 
-![/img/blog/hypermedia/htmlvsjson.png](/img/blog/hypermedia/htmlvsjson.png)
+![/img/blog/hypermedia/whowillwin.png](/img/blog/hypermedia/whowillwin.png)
 
 ## Préalable.
 
@@ -99,6 +99,8 @@ succès, et JavaScript (ainsi que React) a réussi.
 
 Appelons le résultat de cette situation la pression JavaScript et reconnaissons que presque tous les développeurs
 travaillant dans le web la ressentent au moins dans une certaine mesure.
+
+![/img/blog/hypermedia/htmlvsjson.png](/img/blog/hypermedia/htmlvsjson.png)
 
 ## Hypermedia : Notre seul espoir
 
