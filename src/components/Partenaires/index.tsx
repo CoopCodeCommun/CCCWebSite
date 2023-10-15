@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'COmmunnecter.org',
+        title: 'COmmunecter.org',
         img: '/img/partenaires/logo_vert_dark_Plan de travail 1.png',
         link: '',
         description: (
