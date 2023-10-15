@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7461],{8377:e=>{e.exports=JSON.parse('{"label":"citation","permalink":"/blog/tags/citation","allTagsPath":"/blog/tags","count":1}')}}]);

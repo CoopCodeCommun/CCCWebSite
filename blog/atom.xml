@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codecommun.coop/blog</id>
     <title>Coopérative Code Commun Blog</title>
-    <updated>2023-10-09T00:00:00.000Z</updated>
+    <updated>2023-10-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codecommun.coop/blog"/>
     <subtitle>Coopérative Code Commun Blog</subtitle>
     <icon>https://codecommun.coop/img/CCClogo_node_color.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Citations de Framatophe dans le Framablog]]></title>
+        <id>https://codecommun.coop/blog/libre-anar</id>
+        <link href="https://codecommun.coop/blog/libre-anar"/>
+        <updated>2023-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le libre ne suffit pas à l'émancipation. Il faut aussi des chaînes de confiance et des communs productifs.]]></summary>
+        <content type="html"><![CDATA[<ul><li>Auteur : <a href="https://framablog.org/author/framatophe/" target="_blank" rel="noopener noreferrer">Framatophe</a>, Membre du conseil d'administration de Framasoft</li><li>Article original : <a href="https://framablog.org/2023/10/09/logiciel-libre-et-anarchisme/" target="_blank" rel="noopener noreferrer">Logiciel libre et anarchisme – Framablog</a></li></ul><blockquote><p>Le logiciel libre n’est pas exempt de causer <!-- -->[un]<!-- --> effet de domination ne serait-ce parce que les rapports aux
+technologies sont rarement équilibrés. On a beau postuler l’horizontalité entre concepteur et utilisateur, ce dernier
+sera toujours dépendant, au moins sur le plan cognitif. Dans une économie contributive idéale du Libre, concepteurs et
+utilisateurs devraient avoir les mêmes compétences et le même degré de connaissance. Mais ce n’est généralement pas le
+cas et comme disait Lawrence Lessig, « Code is law »</p></blockquote><p>[...]</p><blockquote><p>L’équilibre peut alors être trouvé en créant des chaînes de confiance, c’est-à-dire des efforts collectifs de création
+de communs de la connaissance (formations, entraide, vulgarisation) et des communs productifs : des organisations à
+tendances coopératives et associatives capables de proposer des formules d’émancipation pour tous. Créer du Libre sans
+proposer de solutions collectives d’émancipation revient à démontrer que la liberté existe à des esclaves enchaînés tout
+en les rendant responsables de leurs entraves.</p></blockquote>]]></content>
+        <author>
+            <name>Jonas TURBEAUX</name>
+            <uri>https://github.com/Nasjoe</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="citation" term="citation"/>
+        <category label="Framatophe" term="Framatophe"/>
+        <category label="Framablog" term="Framablog"/>
+        <category label="anarchisme" term="anarchisme"/>
+        <category label="logiciel libre" term="logiciel libre"/>
+        <category label="domination" term="domination"/>
+        <category label="emancipation" term="emancipation"/>
+        <category label="communs" term="communs"/>
+        <category label="coopérative" term="coopérative"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Première note de blog !]]></title>
         <id>https://codecommun.coop/blog/prems</id>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6612],{2601:e=>{e.exports=JSON.parse('{"label":"coop\xe9rative","permalink":"/blog/tags/cooperative","allTagsPath":"/blog/tags","count":1}')}}]);

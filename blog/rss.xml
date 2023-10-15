@@ -4,10 +4,36 @@
         <title>Coopérative Code Commun Blog</title>
         <link>https://codecommun.coop/blog</link>
         <description>Coopérative Code Commun Blog</description>
-        <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Citations de Framatophe dans le Framablog]]></title>
+            <link>https://codecommun.coop/blog/libre-anar</link>
+            <guid>https://codecommun.coop/blog/libre-anar</guid>
+            <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le libre ne suffit pas à l'émancipation. Il faut aussi des chaînes de confiance et des communs productifs.]]></description>
+            <content:encoded><![CDATA[<ul><li>Auteur : <a href="https://framablog.org/author/framatophe/" target="_blank" rel="noopener noreferrer">Framatophe</a>, Membre du conseil d'administration de Framasoft</li><li>Article original : <a href="https://framablog.org/2023/10/09/logiciel-libre-et-anarchisme/" target="_blank" rel="noopener noreferrer">Logiciel libre et anarchisme – Framablog</a></li></ul><blockquote><p>Le logiciel libre n’est pas exempt de causer <!-- -->[un]<!-- --> effet de domination ne serait-ce parce que les rapports aux
+technologies sont rarement équilibrés. On a beau postuler l’horizontalité entre concepteur et utilisateur, ce dernier
+sera toujours dépendant, au moins sur le plan cognitif. Dans une économie contributive idéale du Libre, concepteurs et
+utilisateurs devraient avoir les mêmes compétences et le même degré de connaissance. Mais ce n’est généralement pas le
+cas et comme disait Lawrence Lessig, « Code is law »</p></blockquote><p>[...]</p><blockquote><p>L’équilibre peut alors être trouvé en créant des chaînes de confiance, c’est-à-dire des efforts collectifs de création
+de communs de la connaissance (formations, entraide, vulgarisation) et des communs productifs : des organisations à
+tendances coopératives et associatives capables de proposer des formules d’émancipation pour tous. Créer du Libre sans
+proposer de solutions collectives d’émancipation revient à démontrer que la liberté existe à des esclaves enchaînés tout
+en les rendant responsables de leurs entraves.</p></blockquote>]]></content:encoded>
+            <category>blog</category>
+            <category>citation</category>
+            <category>Framatophe</category>
+            <category>Framablog</category>
+            <category>anarchisme</category>
+            <category>logiciel libre</category>
+            <category>domination</category>
+            <category>emancipation</category>
+            <category>communs</category>
+            <category>coopérative</category>
+        </item>
         <item>
             <title><![CDATA[Première note de blog !]]></title>
             <link>https://codecommun.coop/blog/prems</link>
