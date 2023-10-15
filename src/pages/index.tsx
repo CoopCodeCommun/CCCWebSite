@@ -4,6 +4,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Partenaires from '@site/src/components/Partenaires';
+
 import Translate, {translate} from '@docusaurus/Translate';
 import styles from './index.module.css';
 
@@ -20,7 +22,7 @@ function HomepageHeader() {
     );
 }
 
-function MigrationAnnouncement() {
+function Bandeau() {
     return (
         <div
             className={clsx(styles.announcement, styles.announcementDark)}
@@ -28,6 +30,20 @@ function MigrationAnnouncement() {
             <div className={styles.announcementInner}>
                 <Translate>
                     {`Logiciels libres, formations, communs productifs, organisations coopératives, outils d'émancipations collectifs : La SCIC Code Commun fabrique, expérimente, recherche. Vous voulez participer ?`}
+                </Translate>
+            </div>
+        </div>
+    );
+}
+
+function Bandeau_bis() {
+    return (
+        <div
+            className={clsx(styles.announcement, styles.announcementDark)}
+            data-theme="dark">
+            <div className={styles.announcementInner}>
+                <Translate>
+                    {`Partenaires`}
                 </Translate>
             </div>
         </div>
@@ -42,8 +58,10 @@ export default function Home(): JSX.Element {
             description="Fabrique de communs numériques">
             <HomepageHeader/>
             <main>
-                <MigrationAnnouncement/>
+                <Bandeau/>
                 <HomepageFeatures/>
+                <Bandeau_bis/>
+                <Partenaires/>
             </main>
         </Layout>
     );
