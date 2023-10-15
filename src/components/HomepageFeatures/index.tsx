@@ -4,14 +4,14 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
     title: string;
-    Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+    img: string;
     description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
     {
         title: 'Nicolas DIJOUX',
-        Svg: require('@site/static/img/undraw_pancakes_238t.svg').default,
+        img: '/img/Nico300.png',
         description: (
             <>
                 Fullstack Javascript. Kréol Framework Maker.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Axel CHABRAN',
-        Svg: require('@site/static/img/AxelLoupe.svg').default,
+        img: '/img/AxelLoupe300.png',
         description: (
             <>
                 President coopératif. Cognito scientist.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Jonas TURBEAUX',
-        Svg: require('@site/static/img/jojoCable.svg').default,
+        img: '/img/jojoCable300.png',
         description: (
             <>
                 Fullstack Python. Maker d'utopie.
@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Glen Llaci',
-        Svg: require('@site/static/img/undraw_statistic_chart_re_w0pk.svg').default,
+        img: '/img/Glen300.png',
         description: (
             <>
                 Charmeur de serpents sur ruby.
@@ -47,7 +47,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Mike CARON',
-        Svg: require('@site/static/img/MikeCadre.svg').default,
+        img: '/img/MikeCadre300.png',
         description: (
             <>
                 Bionic FabLabeur.
@@ -56,11 +56,11 @@ const FeatureList: FeatureItem[] = [
     },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, img, description}: FeatureItem) {
     return (
         <div className={clsx('col col--4')}>
             <div className="text--center">
-                <Svg className={styles.featureSvg} role="img"/>
+                <img src={img} style={{width: '14em'}}  alt="profil"/>
             </div>
             <div className="text--center padding-horiz--md">
                 <h3>{title}</h3>

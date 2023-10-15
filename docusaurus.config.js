@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "Coopérative Code Commun",
-    tagline: 'Fabrique de communs numériques',
+    tagline: "Fabrique de communs numériques",
     favicon: 'img/CCClogo_node_color.svg',
     scripts: [{src: 'https://plausible.codecommun.co/js/script.js', defer: true, 'data-domain': 'codecommun.coop'}],
 
