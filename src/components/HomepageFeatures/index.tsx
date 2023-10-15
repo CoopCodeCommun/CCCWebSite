@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Nicolas DIJOUX',
-        img: '/img/Nico300.png',
+        title: 'Mike CARON',
+        img: '/img/MikeCadre300.png',
         description: (
             <>
-                Fullstack Javascript. Kréol Framework Maker.
+                Bionic FabLabeur.
             </>
         ),
     },
@@ -28,11 +28,11 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'Jonas TURBEAUX',
-        img: '/img/jojoCable300.png',
+        title: 'Nicolas DIJOUX',
+        img: '/img/Nico300.png',
         description: (
             <>
-                Fullstack Python. Maker d'utopie.
+                Fullstack Javascript. Kréol Framework Maker.
             </>
         ),
     },
@@ -46,21 +46,22 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'Mike CARON',
-        img: '/img/MikeCadre300.png',
+        title: 'Jonas TURBEAUX',
+        img: '/img/jojoCable300.png',
         description: (
             <>
-                Bionic FabLabeur.
+                Fullstack Python. Maker d'utopie.
             </>
         ),
     },
+
 ];
 
 function Feature({title, img, description}: FeatureItem) {
     return (
         <div className={clsx('col col--4')}>
             <div className="text--center">
-                <img src={img} style={{width: '14em'}}  alt="profil"/>
+                <img src={img} style={{width: '14em'}} alt="profil"/>
             </div>
             <div className="text--center padding-horiz--md">
                 <h3>{title}</h3>
