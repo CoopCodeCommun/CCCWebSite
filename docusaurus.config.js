@@ -67,6 +67,12 @@ const config = {
         ({
             // Replace with your project's social card
             image: 'img/Graphical_codecommun270.png',
+            colorMode: {
+                defaultMode: 'dark',
+                disableSwitch: false,
+                respectPrefersColorScheme: false,
+            },
+            forceDarkMode: true,
             metadata: [{
                 name: 'keywords',
                 content: "Logiciel libre, coopérative, développement, informatique, Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"

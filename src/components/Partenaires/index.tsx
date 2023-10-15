@@ -12,8 +12,8 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
     {
         title: 'La Raffinerie',
-        img: '/img/Nico300.png',
-        link: '',
+        img: '/img/partenaires/raffinerie1.resized.jpg',
+        link: 'https://www.laraffinerie.re/',
         description: (
             <>
                 Friche éco-culturelle
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Association 3Peaks',
-        img: '/img/partenaires/',
+        img: '/img/partenaires/3peaks-ori.resized.png',
         link: '',
         description: (
             <>
@@ -32,18 +32,38 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'COmmunnecter.org',
-        img: '/img/partenaires/',
+        img: '/img/partenaires/logo_vert_dark_Plan de travail 1.png',
         link: '',
         description: (
             <>
-                 Votre réseau social libre et local
+                Votre réseau social libre et local
             </>
         ),
     },
     {
         title: 'RTLx',
-        img: '',
-        link: 'https://www.jetbrains.com/community/opensource/#support',
+        img: '/img/partenaires/Logo-RTL.png',
+        link: '',
+        description: (
+            <>
+                La Réunion des Tiers-lieux.
+            </>
+        ),
+    },
+    {
+        title: 'Le Demeter',
+        img: '/img/partenaires/Demeter.resized.png',
+        link: '',
+        description: (
+            <>
+                Micro Brasserie.
+            </>
+        ),
+    },
+    {
+        title: 'Le Bisik',
+        img: '/img/partenaires/logo-Bisik.blanc_.png',
+        link: 'https://bisik.re/',
         description: (
             <>
                 La Réunion des Tiers-lieux.
@@ -67,7 +87,7 @@ function Feature({title, img, link, description}: FeatureItem) {
     return (
         <div className={clsx('col col--4')}>
             <div className="text--center">
-                <img src={img} style={{width: '14em'}} alt="profil"/>
+                <img src={img} style={{height: '8em'}} alt="profil"/>
             </div>
             <div className="text--center padding-horiz--md">
                 <h3>{title}</h3>
