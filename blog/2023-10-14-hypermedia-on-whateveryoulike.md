@@ -5,7 +5,7 @@ authors: [ jonas ]
 description: HOWL, ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
 tags: [ blog, tibillet, histoire, origine ]
 image: /img/blog/hypermedia/htmlvsjson.png
-draft: true
+draft: false
 ---
 
 # HOWL : Hypermedia partout !
@@ -16,17 +16,17 @@ Libérez vous de la pression qu'apporte le Javascript partout. Lorsque vous util
 application web, vous êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à vos goûts techniques.
 
 ![/img/blog/hypermedia/htmlvsjson.png](/img/blog/hypermedia/htmlvsjson.png)
+
 ## Préalable.
 
 Nous souhaitons à travers ce blog partager des articles, des tips, des philosophies ou des idées qui ont un rapport de
 près ou de loin avec les projets de la coopérative.
 
-Je vais donc commencer par un concept dont nous aimons parler : la "pile HOWL".
+Je vais donc commencer par un concept que je découvre récemment (depuis un an ou deux.) et dont j'aime discuter : la "pile HOWL".
 
-HOWL est l'acronyme de Hypermedia On
-Whatever you'd Like.
+HOWL est l'acronyme de Hypermedia On Whatever you'd Like.
 
-La suite de cette note de blog est une traduction de l'article
+La suite est une traduction de l'article
 de [Carson Gross](https://hypermedia.systems/) : [HOWL: Hypermedia On Whatever You'd Like](https://htmx.org/essays/hypermedia-on-whatever-youd-like/)
 
 Si le sujet vous intéresse, je vous invite vous balader sur les sites suivant, il y a plein de concepts intéressants à
