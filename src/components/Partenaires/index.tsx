@@ -46,7 +46,7 @@ const FeatureList: FeatureItem[] = [
         link: '',
         description: (
             <>
-                La Réunion des Tiers-lieux.
+                La Réunion des Tiers-lieux
             </>
         ),
     },
@@ -56,7 +56,7 @@ const FeatureList: FeatureItem[] = [
         link: '',
         description: (
             <>
-                Micro Brasserie.
+                Micro Brasserie
             </>
         ),
     },
@@ -66,7 +66,7 @@ const FeatureList: FeatureItem[] = [
         link: 'https://bisik.re/',
         description: (
             <>
-                Lieux de musiques actuelles.
+                Lieux de musiques actuelles
             </>
         ),
     },

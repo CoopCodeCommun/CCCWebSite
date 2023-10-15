@@ -29,7 +29,7 @@ function Bandeau() {
             data-theme="dark">
             <div className={styles.announcementInner}>
                 <Translate>
-                    {`Logiciels libres, formations, communs productifs, organisations coopératives, outils d'émancipations collectifs : La SCIC Code Commun fabrique, expérimente, recherche. Vous voulez participer ?`}
+                    {`Logiciels libres, formations, communs productifs, organisations coopératives, outils d'émancipations collectifs : La SCIC Code Commun fabrique, expérimente, recherche. Voulez vous participer ?`}
                 </Translate>
             </div>
         </div>
