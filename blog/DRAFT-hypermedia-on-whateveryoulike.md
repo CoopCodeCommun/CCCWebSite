@@ -4,7 +4,7 @@ title: HOWL - Hypermedia partout
 authors: [ jonas ]
 description: HOWL, ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
 tags: [ blog, tibillet, histoire, origine ]
-image: /img/Graphical_codecommun270.png
+image: /img/blog/hypermedia/htmlvsjson.png
 draft: true
 ---
 
@@ -12,10 +12,10 @@ draft: true
 
 ### TLDR :
 
-Lorsque vous utilisez une approche hypermédia pour votre application web, vous
-êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à vos goûts techniques.er
-server-side technology best fits your problem and your own technical tastes.
+Libérez vous de la pression qu'apporte le Javascript partout. Lorsque vous utilisez une approche hypermédia pour votre
+application web, vous êtes libre de choisir la technologie côté serveur qui correspond le mieux à votre problème et à vos goûts techniques.
 
+![/img/blog/hypermedia/htmlvsjson.png](/img/blog/hypermedia/htmlvsjson.png)
 ## Préalable.
 
 Nous souhaitons à travers ce blog partager des articles, des tips, des philosophies ou des idées qui ont un rapport de
