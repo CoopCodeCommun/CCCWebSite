@@ -66,13 +66,13 @@ const FeatureList: FeatureItem[] = [
         link: 'https://bisik.re/',
         description: (
             <>
-                La Réunion des Tiers-lieux.
+                Lieux de musiques actuelles.
             </>
         ),
     },
     {
         title: 'Jetbrain',
-        img: '',
+        img: '/img/partenaires/jb_beam.resized.png',
         link: 'https://www.jetbrains.com/community/opensource/#support',
         description: (
             <>
