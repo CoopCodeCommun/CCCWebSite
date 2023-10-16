@@ -1,7 +1,7 @@
 ---
 slug: Axel
 title: Axel CHABRAN
-description: Développeur FullStack python et adminstrateur système linux polyvalent.
+description: Coordinateur de projet.
 tags: [ tibillet, culture, sciences cognitives, facilitateur, europe creative, gestion de projet, ]
 image: /img/Graphical_codecommun270.png
 ---
