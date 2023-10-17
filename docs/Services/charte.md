@@ -30,5 +30,5 @@ contributeur.ices de communs numériques. En nous choissisant, pour administrer 
 participez également au développement d'outils libres. Aussi, une partie de nos bénéfices sont reversés aux
 équipes de développement des outils utilisés et installés.
 
-Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.nes du
+Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.e.s du
 numérique.
