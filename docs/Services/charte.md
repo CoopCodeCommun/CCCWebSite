@@ -1,9 +1,9 @@
 ---
-slug: valeur
+slug: charte
 title: Charte et valeur
 description: Nos engagements et nos valeurs.
 sidebar_position: 1
-tags: [ licence libre, coopérative, économie social et solidaire, vie privée ]
+tags: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
 image: /img/Graphical_codecommun270.png
 ---
 
