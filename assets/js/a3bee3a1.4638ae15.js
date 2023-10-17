@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5243],{7515:e=>{e.exports=JSON.parse('{"label":"licence libre","permalink":"/docs/tags/licence-libre","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Services/charte","title":"Charte et valeur","description":"Nos engagements et nos valeurs.","permalink":"/docs/Services/charte"}]}')}}]);

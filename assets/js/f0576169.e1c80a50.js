@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5067],{5327:e=>{e.exports=JSON.parse('{"label":"vie priv\xe9e","permalink":"/docs/tags/vie-privee","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Services/valeurs","title":"Charte et valeur","description":"Nos engagements et nos valeurs.","permalink":"/docs/Services/valeur"}]}')}}]);
