@@ -25,7 +25,7 @@ j'essaye de faire écho dans les projets que je développe.
 
 - Coordination de festival
 - Création de site web et de contenu de communication
-- Animation d'atelier culturels participatifs
+- Animation d'ateliers culturels participatifs
 - Développement de partenariats avec les acteurs locaux
 - Organisation d'événements
 - R&D sur l'écologie et l'inclusion des événements culturels
