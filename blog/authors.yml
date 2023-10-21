@@ -3,3 +3,16 @@ jonas:
   title: Charmeur de python.
   url: https://github.com/Nasjoe
   image_url: https://github.com/Nasjoe.png
+
+nicolas:
+  name: Nicolas DIJOUX
+  title: Lead dev Frontend.
+  url: https://github.com/filaos974
+  image_url: https://avatars.githubusercontent.com/u/98577518?v=4
+
+axel:
+  name: Axel CHABRAN
+  title: Project Manager.
+  url: https://axelchabran.com
+  image_url: https://github.com/slorber.png
+
