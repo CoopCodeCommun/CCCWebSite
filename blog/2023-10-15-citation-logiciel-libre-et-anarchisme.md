@@ -1,6 +1,6 @@
 ---
 slug: libre-anar
-title: Citations de Framatophe dans le Framablog
+title: Citation de Framatophe dans le Framablog
 authors: [ jonas ]
 description: Le libre ne suffit pas à l'émancipation. Il faut aussi des chaînes de confiance et des communs productifs.
 tags: [ blog, citation, Framatophe, Framablog, anarchisme, logiciel libre, domination, emancipation, communs, coopérative ]
