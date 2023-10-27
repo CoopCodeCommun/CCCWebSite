@@ -116,9 +116,9 @@ docker ps
 #### Traefik
 
 Traefik est un service de reverse proxy. C'est lui qui gère la redirection du conteneur depuis votre DNS et qui s'occupe
-du chiffrement HTTPS grâce à la formidable initiavide de lets'encrypt.
+du chiffrement HTTPS grâce à la formidable initiative de lets'encrypt.
 
-Pour le faire tourner, vous devez avoir un nom de domaine qui pointe vers l'ip de votre serveur. Ajoutez un champs A sur votre admin DNS.
+Pour le faire tourner, vous devez avoir un nom de domaine qui pointe vers l'ip de votre serveur. Ajoutez un champ A sur votre admin DNS.
 
 ```shell
 #clonez le dépot
