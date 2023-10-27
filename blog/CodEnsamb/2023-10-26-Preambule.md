@@ -5,7 +5,7 @@ authors: [ jonas, glen, mike ]
 description: Ça sert a rien de faire du logiciel libre si on explique pas pourquoi et comment.Venez contribuer quelque que soit votre domaine de connaissance .
 tags: [ cod-ensamb, code-with-me, blog, python, poetry, django, jetbrains, pycharm, tibillet, cashless, caisse-enregistreuse, tuto, ]
 draft: false
-image: /img/blog/hypermedia/original.png
+image: /img/blog/cod-ensamb/2023-10-26/congratulations.png
 ---
 
 # Codons le logiciel de caisse enregistreuse "LaBoutik" depuis zero
