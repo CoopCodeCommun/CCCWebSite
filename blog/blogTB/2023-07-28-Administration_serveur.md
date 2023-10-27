@@ -1,11 +1,11 @@
 ---
-slug: newinstall
-title: Installer la caisse TiBillet sur Ubuntu 22.04
+slug: sysadmin-mon-chaton
+title: Linux, Docker, Compose, Traefik, Crowdsec, SSH, et c'est parti mon chaton !
 authors: jonas
-wiktags: [ tibillet, cashless, ubuntu, linux, wallet, caisse, caisse enregistreuse ]
+wiktags: [ ubuntu, linux, wallet, traefik, crowsec ]
 image: /img/federons/decollage.jpg
-description: Installation d'un serveur cashless.
-draft: true
+description: Installation et sécurisation d'un serveur linux "from scratch" pour acceuillir nos outils.
+draft: False
 ---
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
@@ -16,7 +16,7 @@ Le cashless est en pleine migration d'un Django 2.2 vers un 4.2. Le dépot libre
 jour, [contactez nous](https://discord.gg/ecb5jtP7vY) si vous voulez faire une installation.
 :::
 
-Nous allons détailler ici la préparation d'un serveur sous VPS pour acceuillir la solution de caisse TiBillet.
+Nous allons détailler ici la préparation d'un serveur sous VPS pour acceuillir toutes nos solutions libres que nous proposons dans la coopérative.
 
 ## Préparation du système
 
@@ -122,6 +122,8 @@ docker ps
 Traefik est un service de reverse proxy. C'est lui qui gère la redirection du conteneur depuis votre DNS et qui s'occupe
 du chiffrement HTTPS grâce à la formidable initiavide de lets'encrypt.
 
+Pour le faire tourner, vous devez avoir un nom de domaine qui pointe vers l'ip de votre serveur. Ajoutez un champs A sur votre admin DNS.
+
 ```shell
 #clonez le dépot
 git clone git@github.com:TiBillet/Traefik-reverse-proxy.git
@@ -139,31 +141,21 @@ CONTAINER ID   IMAGE               COMMAND                  CREATED         STAT
 7f27255b935a   traefik:chevrotin   "/entrypoint.sh --lo…"   5 seconds ago   Up 4 seconds   0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp traefik
 ```
 
-#### Sentry
+#### Testons Traefik :
 
-TiBillet utilise sentry pour la remontée des bugs et des alertes.
-Indiquer une clé api sentry est optionnel mais largement conseillée pour l'autohebergement.
-
-#### TiBillet Cashless
-
-Aller récupérer la dernière version du dépot cashless sur https://github.com/TiBillet/TiBillet
+Lançons un conteneur de test pour savoir si tout tourne bien :
 
 ```shell
-git clone https://github.com/TiBillet/Cashless
-cd Cashless/Docker
+cd Traefik-reverse-proxy/test_conteneur
+cat "DOMAIN=localhost" > .env # créons un fichier .env qui sera lu par compose
+docker compose up
 ```
 
-Remplissez toute les variables nécéssaires au lancement de votre instance.
+Si vous allez dans https://test.localhost, vous devriez voir une page whoami !
 
-```shell
-cp env_example .env
-nano .env
-```
+Si vous avez un DNS qui pointe vers l'ip de votre serveur, changez le .env en conséquence pour avoir une connexion chiffrée en TLS !
 
-Lancez les conteneurs et lancez les scripts de premiers lancement pour l'installation.
-```shell
-docker compose up -d
-docker compose exec cashless_django python manage.py migrate
-docker compose exec cashless_django python manage.py popdb
-```
+# Conclusion
 
+Et Hop ! Notre serveur est prêt pour acceuillir tous nos services futurs.
+Dans le prochain article, nous allons voir comment installer le moteur TiBillet d'adhésion, de reservation et d'agenda fédéré !
