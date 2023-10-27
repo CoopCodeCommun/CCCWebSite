@@ -71,7 +71,7 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'Jetbrain',
+        title: 'JetBrains',
         img: '/img/partenaires/jb_beam.resized.png',
         link: 'https://www.jetbrains.com/community/opensource/#support',
         description: (

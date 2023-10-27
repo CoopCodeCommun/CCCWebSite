@@ -16,3 +16,14 @@ axel:
   url: https://axelchabran.com
   image_url: https://github.com/slorber.png
 
+mike:
+  name: Mike Caron
+  title: FabLabeur.
+  image_url: /img/MikeCadre300.png
+
+glen:
+  name: Glen Llaci
+  title: Charmeur de serpents sur ruby.
+  url: https://github.com/gltwodotlineci
+  image_url: /img/Glen300.png
+
