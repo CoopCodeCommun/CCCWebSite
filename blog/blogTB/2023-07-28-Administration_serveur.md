@@ -5,6 +5,7 @@ authors: jonas
 wiktags: [ tibillet, cashless, ubuntu, linux, wallet, caisse, caisse enregistreuse ]
 image: /img/federons/decollage.jpg
 description: Installation d'un serveur cashless.
+draft: true
 ---
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
