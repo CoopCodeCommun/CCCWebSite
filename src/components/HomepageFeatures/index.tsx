@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
         img: '/img/MikeCadre300.png',
         description: (
             <>
-                Bionic FabLabeur.
+                Bionic FabLabeur
             </>
         ),
     },
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
         img: '/img/AxelLoupe300.png',
         description: (
             <>
-                President coopératif. Cognito scientist.
+                Project Manago-coopératif
             </>
         ),
     },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
         img: '/img/Nico300.png',
         description: (
             <>
-                Fullstack Javascript. Kréol Framework Maker.
+                Kréol Javascript Framework Maker
             </>
         ),
     },
@@ -41,7 +41,7 @@ const FeatureList: FeatureItem[] = [
         img: '/img/GlenMiaou300.png',
         description: (
             <>
-                Charmeur de serpents sur ruby.
+                Extracteur de ruby
             </>
         ),
     },
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
         img: '/img/jojoCable300.png',
         description: (
             <>
-                Fullstack Python. Maker d'utopie.
+                Charmeur de python
             </>
         ),
     },

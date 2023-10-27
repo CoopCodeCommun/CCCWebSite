@@ -54,7 +54,7 @@ export default function Home(): JSX.Element {
     const {siteConfig} = useDocusaurusContext();
     return (
         <Layout
-            title="Coop' et logiciel libre"
+            title="Fabrique de communs numériques"
             description="Fabrique de communs numériques">
             <HomepageHeader/>
             <main>
