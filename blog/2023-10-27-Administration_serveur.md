@@ -1,8 +1,9 @@
 ---
-slug: sysadmin-mon-chaton
+slug: sysadmin-mon-chaton-part1
 title: Linux, Docker, Compose, Traefik, Crowdsec, SSH, et c'est parti mon chaton !
 authors: jonas
-wiktags: [ ubuntu, linux, wallet, traefik, crowsec ]
+wiktags: [ ubuntu, linux, wallet, traefik, crowsec, administration systeme, sysadmin ]
+tags: [ ubuntu, linux, wallet, traefik, crowsec, administration systeme, sysadmin ]
 image: /img/federons/decollage.jpg
 description: Installation et sécurisation d'un serveur linux "from scratch" pour acceuillir nos outils.
 draft: False
@@ -10,11 +11,6 @@ draft: False
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
 
-:::note
-Juillet 2023 : 
-Le cashless est en pleine migration d'un Django 2.2 vers un 4.2. Le dépot libre n'est pas complètement a
-jour, [contactez nous](https://discord.gg/ecb5jtP7vY) si vous voulez faire une installation.
-:::
 
 Nous allons détailler ici la préparation d'un serveur sous VPS pour acceuillir toutes nos solutions libres que nous proposons dans la coopérative.
 

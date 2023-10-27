@@ -1,29 +1,29 @@
 jonas:
-  name: Jonas TURBEAUX
-  title: Charmeur de python.
+  name: Jonas Turbeaux
+  title: Charmeur de python
   url: https://github.com/Nasjoe
-  image_url: https://github.com/Nasjoe.png
+  image_url: /img/jojoCable300Carre.png
 
 nicolas:
-  name: Nicolas DIJOUX
-  title: Lead dev Frontend.
+  name: Nicolas Dijoux
+  title: Kreol Frontend Framework Maker
   url: https://github.com/filaos974
   image_url: https://avatars.githubusercontent.com/u/98577518?v=4
 
 axel:
-  name: Axel CHABRAN
-  title: Project Manager.
+  name: Axel Chabran
+  title: Project Manager
   url: https://axelchabran.com
   image_url: https://github.com/slorber.png
 
 mike:
   name: Mike Caron
-  title: FabLabeur.
-  image_url: /img/MikeCadre300.png
+  title: FabLabeur
+  image_url: /img/MikeCadre300Carre.png
 
 glen:
   name: Glen Llaci
-  title: Charmeur de serpents sur ruby.
+  title: Extracteur de ruby
   url: https://github.com/gltwodotlineci
-  image_url: /img/Glen300.png
+  image_url: /img/GlenMiaou300Carre.png
 

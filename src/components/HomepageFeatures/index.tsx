@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: 'Glen Llaci',
-        img: '/img/Glen300.png',
+        img: '/img/GlenMiaou300.png',
         description: (
             <>
                 Charmeur de serpents sur ruby.
