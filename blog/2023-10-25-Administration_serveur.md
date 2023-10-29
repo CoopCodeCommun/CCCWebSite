@@ -11,8 +11,8 @@ draft: False
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
 
-
-Nous allons détailler ici la préparation d'un serveur sous VPS pour acceuillir toutes nos solutions libres que nous proposons dans la coopérative.
+Nous allons détailler ici la préparation d'un serveur sous distribution Debian (ou Ubuntu) pour acceuillir toutes nos
+solutions libres que nous proposons dans la coopérative.
 
 ## Préparation du système
 
@@ -118,7 +118,8 @@ docker ps
 Traefik est un service de reverse proxy. C'est lui qui gère la redirection du conteneur depuis votre DNS et qui s'occupe
 du chiffrement HTTPS grâce à la formidable initiative de lets'encrypt.
 
-Pour le faire tourner, vous devez avoir un nom de domaine qui pointe vers l'ip de votre serveur. Ajoutez un champ A sur votre admin DNS.
+Pour le faire tourner, vous devez avoir un nom de domaine qui pointe vers l'ip de votre serveur. Ajoutez un champ A sur
+votre admin DNS.
 
 ```shell
 #clonez le dépot
@@ -149,9 +150,11 @@ docker compose up
 
 Si vous allez dans https://test.localhost, vous devriez voir une page whoami !
 
-Si vous avez un DNS qui pointe vers l'ip de votre serveur, changez le .env en conséquence pour avoir une connexion chiffrée en TLS !
+Si vous avez un DNS qui pointe vers l'ip de votre serveur, changez le .env en conséquence pour avoir une connexion
+chiffrée en TLS !
 
 # Conclusion
 
 Et Hop ! Notre serveur est prêt pour acceuillir tous nos services futurs.
-Dans le prochain article, nous allons voir comment installer le moteur TiBillet d'adhésion, de reservation et d'agenda fédéré !
+Dans le prochain article, nous allons voir comment installer le moteur TiBillet d'adhésion, de reservation et d'agenda
+fédéré !
