@@ -13,7 +13,7 @@
         <link href="https://codecommun.coop/blog/codensamb-preambule"/>
         <updated>2023-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ça sert a rien de faire du logiciel libre si on explique pas pourquoi et comment.Venez contribuer quelque que soit votre domaine de connaissance .]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="préambule">Préambule<a href="#préambule" class="hash-link" aria-label="Lien direct vers Préambule" title="Lien direct vers Préambule">​</a></h2><p>Ça sert a rien de faire du logiciel libre si on explique pas pourquoi et comment. Donc premier effort à fournir : de la documentation et de la vulgarisation.</p><p>On commence par un chantier participatif ? Tous les lundi : cod' ensamb !</p><p>L'idée : Recoder tout le projet LaBoutik (Caisse enregistreuse, cashless, monnaie locale, etc... pour en savoir plus : <a href="https://tibillet.org" target="_blank" rel="noopener noreferrer">https://tibillet.org</a>).</p><p>Étape par étape, comme un grand tutoriel géant, nous allons détailler pourquoi et comment nous le construisons.</p><p>Le but avoué est d'encourager les contributions aux projets de la coopérative, de réduire le flou technologique, de vulgariser le code, mais surtout de s'engager dans une démarche de partage de savoir.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="koi-fé--tldr">Koi fé ? (TLDR;)<a href="#koi-fé--tldr" class="hash-link" aria-label="Lien direct vers Koi fé ? (TLDR;)" title="Lien direct vers Koi fé ? (TLDR;)">​</a></h2><p>Dans ce tuto, nous allons voir comment : </p><ul><li>Préparer son environnement de développement python avec Poetry </li><li>Configurer l'IDE de Jetbrain, Pycharm, pour qu'il nous facilite la vie </li><li>Installer Django 4.2</li><li>Créer ses premiers objets en base de donnée</li><li>Créer une interface d'admin pour les créer et les manipuler</li></ul><h1>Codons le logiciel de caisse enregistreuse "LaBoutik" depuis zero</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="la-stack-">La "stack" :<a href="#la-stack-" class="hash-link" aria-label="Lien direct vers La &quot;stack&quot; :" title="Lien direct vers La &quot;stack&quot; :">​</a></h3><p>Autrement dit, l'ensemble des librairies, framework (cadriciel) et outils divers pour construire notre solution.</p><ul><li>Linux (ubuntu/debian) quoique, on pourrait installer la stack sur windows et mac, mais on va le faire paske faut bien choisir.</li><li>Python 3.10</li><li>Poetry (outil de gestion d'environement python qui sert à maintenir nos versions à jour et nous assurer que les librairies n'aient pas d'incompatibilité entre elles )</li><li>Django 4.2</li></ul><p>Et bien sur notre IDE préféré qui nous facilite grandement la tache : Pycharm (<a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" rel="noopener noreferrer">https://www.jetbrains.com/fr-fr/pycharm/</a>)</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="le-dépot-git">Le dépot GIT<a href="#le-dépot-git" class="hash-link" aria-label="Lien direct vers Le dépot GIT" title="Lien direct vers Le dépot GIT">​</a></h3><p>Travaillons sur le dépot : <a href="https://github.com/CoopCodeCommun/LaBoutik-CodEnsamb" target="_blank" rel="noopener noreferrer">https://github.com/CoopCodeCommun/LaBoutik-CodEnsamb</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="installons-poetry">Installons Poetry<a href="#installons-poetry" class="hash-link" aria-label="Lien direct vers Installons Poetry" title="Lien direct vers Installons Poetry">​</a></h2><ul><li><a href="https://python-poetry.org/docs/" target="_blank" rel="noopener noreferrer">https://python-poetry.org/docs/</a></li></ul><div class="language-shell= codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell= codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">curl -sSL https://install.python-poetry.org | python3 -</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">git clone git@github.com:CoopCodeCommun/LaBoutik-CodEnsamb.git</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><div class="language-shell= codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell= codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">### Sur Mac :</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">brew install poetry</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Une fois le poetry installé et le repos git crée. On peut initialiser le poetry.
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="préambule">Préambule<a href="#préambule" class="hash-link" aria-label="Lien direct vers Préambule" title="Lien direct vers Préambule">​</a></h2><p>Dans la Coop', on pense que ça ne sert à rien de faire du logiciel libre si on explique pas pourquoi et comment. Donc premier effort à fournir : de la documentation et de la vulgarisation.</p><p>On commence par un chantier participatif ? Tous les lundi : cod' ensamb !</p><p>L'idée : Recoder tout le projet LaBoutik (Caisse enregistreuse, cashless, monnaie locale, etc... pour en savoir plus : <a href="https://tibillet.org" target="_blank" rel="noopener noreferrer">https://tibillet.org</a>).</p><p>Étape par étape, comme un grand tutoriel géant, nous allons détailler pourquoi et comment nous le construisons.</p><p>Le but avoué est d'encourager les contributions aux projets de la coopérative, de réduire le flou technologique, de vulgariser le code, mais surtout de s'engager dans une démarche de partage de savoir.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="koi-fé--tldr">Koi fé ? (TLDR;)<a href="#koi-fé--tldr" class="hash-link" aria-label="Lien direct vers Koi fé ? (TLDR;)" title="Lien direct vers Koi fé ? (TLDR;)">​</a></h2><p>Dans ce tuto, nous allons voir comment : </p><ul><li>Préparer son environnement de développement python avec Poetry </li><li>Configurer l'IDE de Jetbrain, Pycharm, pour qu'il nous facilite la vie </li><li>Installer Django 4.2</li><li>Créer ses premiers objets en base de donnée</li><li>Créer une interface d'admin pour les créer et les manipuler</li></ul><h1>Codons le logiciel de caisse enregistreuse "LaBoutik" depuis zero</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="la-stack-">La "stack" :<a href="#la-stack-" class="hash-link" aria-label="Lien direct vers La &quot;stack&quot; :" title="Lien direct vers La &quot;stack&quot; :">​</a></h3><p>Autrement dit, l'ensemble des librairies, framework (cadriciel) et outils divers pour construire notre solution.</p><ul><li>Linux (ubuntu/debian) quoique, on pourrait installer la stack sur windows et mac, mais on va le faire paske faut bien choisir.</li><li>Python 3.10</li><li>Poetry (outil de gestion d'environement python qui sert à maintenir nos versions à jour et nous assurer que les librairies n'aient pas d'incompatibilité entre elles )</li><li>Django 4.2</li></ul><p>Et bien sur notre IDE préféré qui nous facilite grandement la tache : Pycharm (<a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" rel="noopener noreferrer">https://www.jetbrains.com/fr-fr/pycharm/</a>)</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="le-dépot-git">Le dépot GIT<a href="#le-dépot-git" class="hash-link" aria-label="Lien direct vers Le dépot GIT" title="Lien direct vers Le dépot GIT">​</a></h3><p>Travaillons sur le dépot : <a href="https://github.com/CoopCodeCommun/LaBoutik-CodEnsamb" target="_blank" rel="noopener noreferrer">https://github.com/CoopCodeCommun/LaBoutik-CodEnsamb</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="installons-poetry">Installons Poetry<a href="#installons-poetry" class="hash-link" aria-label="Lien direct vers Installons Poetry" title="Lien direct vers Installons Poetry">​</a></h2><ul><li><a href="https://python-poetry.org/docs/" target="_blank" rel="noopener noreferrer">https://python-poetry.org/docs/</a></li></ul><div class="language-shell= codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell= codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">curl -sSL https://install.python-poetry.org | python3 -</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">git clone git@github.com:CoopCodeCommun/LaBoutik-CodEnsamb.git</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><div class="language-shell= codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell= codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">### Sur Mac :</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">brew install poetry</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Une fois le poetry installé et le repos git crée. On peut initialiser le poetry.
 A La racine du projet : </p><div class="language-shell= codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell= codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">poetry init</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Répondez aux questions en vérifiant<br>
 <em>Compatible Python versions <sup id="fnref-3.10-a7a1d5"><a href="#fn-3.10-a7a1d5" class="footnote-ref">3.10</a></sup> :</em> laissez par defaut .
 <em>Pour les question concernant les dépendances , répondez</em> No ( nous les installerons nous meme )</p><p>Vous avez maintenant un fichier <strong>pyproject.toml</strong> dans  votre projet qui reprend tous les paramétres saisis .
@@ -202,9 +202,12 @@ est désormais une possibilité réelle, voire une réalité émergente.</p><p>L
             <uri>https://github.com/Nasjoe</uri>
         </author>
         <category label="blog" term="blog"/>
-        <category label="tibillet" term="tibillet"/>
-        <category label="histoire" term="histoire"/>
-        <category label="origine" term="origine"/>
+        <category label="hypermedia" term="hypermedia"/>
+        <category label="hyperscript" term="hyperscript"/>
+        <category label="htmx" term="htmx"/>
+        <category label="sobriété" term="sobriété"/>
+        <category label="simplicité" term="simplicité"/>
+        <category label="javascript" term="javascript"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Première note du nouveau blog Code Commun !]]></title>
@@ -254,6 +257,19 @@ Le tout sous une gestion fédérée et transparente, pour créer des réseaux de
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
+        <category label="coopérative" term="coopérative"/>
+        <category label="scic" term="scic"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fédération 4 - Design]]></title>
@@ -269,6 +285,19 @@ et sur l'agenda commun.</p><p>D'une pierre deux coups, vendez vos billets en lig
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
+        <category label="coopérative" term="coopérative"/>
+        <category label="scic" term="scic"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fédération 3 - Structure et historique]]></title>
@@ -309,6 +338,19 @@ dans les prochaines notes de blogs pour les détails !</p><ul><li><a href="https
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
+        <category label="coopérative" term="coopérative"/>
+        <category label="scic" term="scic"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fédération 2 - L'agenda partagé]]></title>
@@ -352,6 +394,17 @@ cartes NFC déja utilisées par les lieux ?</p><p><img loading="lazy" alt="/img/
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fédération 1 - Introduction]]></title>
@@ -403,6 +456,17 @@ et l'expérimentation en trois grandes étapes.</p><ul><li><a href="/blog/federa
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[RTL - Compte rendu 03-10-2022]]></title>
@@ -420,6 +484,17 @@ Ordre du jour : Portefeuille fédéré -&gt; Remontez-nous vos idées et besoins
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="openwallet" term="openwallet"/>
+        <category label="caisse enregistreuse" term="caisse enregistreuse"/>
+        <category label="tibillet" term="tibillet"/>
+        <category label="réunion des tiers-lieux" term="réunion des tiers-lieux"/>
+        <category label="RTLx" term="RTLx"/>
+        <category label="économie sociale et solidaire" term="économie sociale et solidaire"/>
+        <category label="ess" term="ess"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ecosocialisme numérique]]></title>
@@ -449,6 +524,9 @@ sécurité gérés par les communautés.</li><li>Mettre fin à la fracture numé
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="Écosocialisme" term="Écosocialisme"/>
+        <category label="logiciel libre" term="logiciel libre"/>
+        <category label="floss" term="floss"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liens utiles]]></title>
@@ -483,5 +561,10 @@ que les conséquences peuvent être autrement plus dramatiques…</p><p><a href=
             <name>Jonas Turbeaux</name>
             <uri>https://github.com/Nasjoe</uri>
         </author>
+        <category label="cashless" term="cashless"/>
+        <category label="fédération" term="fédération"/>
+        <category label="portefeuille" term="portefeuille"/>
+        <category label="wallet" term="wallet"/>
+        <category label="liens utiles" term="liens utiles"/>
     </entry>
 </feed>

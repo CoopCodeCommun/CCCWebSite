@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7614],{9831:s=>{s.exports=JSON.parse('{"label":"cashless","permalink":"/blog/tags/cashless","allTagsPath":"/blog/tags","count":8}')}}]);

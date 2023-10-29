@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7598],{7228:e=>{e.exports=JSON.parse('{"label":"tibillet","permalink":"/blog/tags/tibillet","allTagsPath":"/blog/tags","count":3}')}}]);

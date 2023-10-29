@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5383],{8346:c=>{c.exports=JSON.parse('{"label":"scic","permalink":"/blog/tags/scic","allTagsPath":"/blog/tags","count":3}')}}]);
