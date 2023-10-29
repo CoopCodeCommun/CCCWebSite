@@ -2,7 +2,8 @@
 slug: ecosocialisme_numerique
 title: Ecosocialisme numérique
 authors: jonas
-wiktags: [Écosocialisme]
+keywords: [Écosocialisme, logiciel libre, floss]
+tags: [Écosocialisme, logiciel libre, floss]
 image: https://framablog.org/wp-content/uploads/2022/08/Digital-Socialism-LINES-1536x864-1.webp
 description: Chantier en cours autour d'une réfléxion carte TiBillet partagée entre plusieurs lieux.
 ---

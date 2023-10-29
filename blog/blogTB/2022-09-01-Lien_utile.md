@@ -2,7 +2,8 @@
 slug: link
 title: Liens utiles
 authors: jonas
-wiktags: [cashless, fédération, portefeuille, waller]
+keywords: [cashless, fédération, portefeuille, wallet, liens utiles]
+tags: [cashless, fédération, portefeuille, wallet, liens utiles]
 image: /img/cr_220310_portefeuille_partage/FEDERONS-01.png
 description: Chantier en cours autour d'une réfléxion carte TiBillet partagée entre plusieurs lieux.
 ---

@@ -4,14 +4,16 @@ title: Codons le logiciel de caisse enregistreuse "LaBoutik" depuis zero
 authors: [ jonas, glen, mike ]
 description: Ça sert a rien de faire du logiciel libre si on explique pas pourquoi et comment.Venez contribuer quelque que soit votre domaine de connaissance .
 tags: [ cod-ensamb, code-with-me, blog, python, poetry, django, jetbrains, pycharm, tibillet, cashless, caisse-enregistreuse, tuto, ]
+keywords: [ cod-ensamb, code-with-me, blog, python, poetry, django, jetbrains, pycharm, tibillet, cashless, caisse-enregistreuse, tuto, ]
 draft: false
 image: /img/blog/cod-ensamb/2023-10-26/congratulations.png
 ---
 
+
 # Codons le logiciel de caisse enregistreuse "LaBoutik" depuis zero
 ## Préambule
 
-Ça sert a rien de faire du logiciel libre si on explique pas pourquoi et comment. Donc premier effort à fournir : de la documentation et de la vulgarisation.
+Dans la Coop', on pense que ça ne sert à rien de faire du logiciel libre si on explique pas pourquoi et comment. Donc premier effort à fournir : de la documentation et de la vulgarisation.
 
 On commence par un chantier participatif ? Tous les lundi : cod' ensamb !
 

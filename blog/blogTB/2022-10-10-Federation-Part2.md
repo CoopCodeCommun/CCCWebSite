@@ -2,7 +2,8 @@
 slug: federation-part2
 title: Fédération 2 - L'agenda partagé
 authors: jonas
-wiktags: [cashless, fédération, portefeuille, wallet]
+keywords: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess]
+tags: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess]
 image: /img/federons/07-tenant-part1.png
 description: Fédérons TiBillet, première partie.
 ---

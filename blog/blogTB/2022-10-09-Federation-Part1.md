@@ -2,7 +2,8 @@
 slug: federation-part1
 title: Fédération 1 - Introduction
 authors: jonas
-wiktags: [cashless, fédération, portefeuille, wallet]
+keywords: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess]
+tags: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess]
 image: /img/federons/03-multiples.png
 description: Fédérons TiBillet, première partie.
 ---

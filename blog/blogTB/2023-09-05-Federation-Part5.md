@@ -2,7 +2,8 @@
 slug: federation-part5-fedow
 title: Fédération 5 - FEDOW
 authors: jonas
-wiktags: [ cashless, fédération, portefeuille, wallet, coopérative, scic, code commun, tibillet, design ]
+keywords: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
+tags: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
 image: /img/federons/fedow_logo.jpg
 description: Fédérons TiBillet, cinquième partie. Open wallet, blockchain, économie sociale et solidaire sont dans un bateau.
 ---

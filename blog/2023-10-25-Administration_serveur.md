@@ -2,7 +2,7 @@
 slug: sysadmin-mon-chaton-part1
 title: Linux, Docker, Compose, Traefik, Crowdsec, SSH, et c'est parti mon chaton !
 authors: jonas
-wiktags: [ ubuntu, linux, wallet, traefik, crowsec, administration systeme, sysadmin ]
+keywords: [ ubuntu, linux, wallet, traefik, crowsec, administration systeme, sysadmin ]
 tags: [ ubuntu, linux, wallet, traefik, crowsec, administration systeme, sysadmin ]
 image: /img/federons/decollage.jpg
 description: Installation et sécurisation d'un serveur linux "from scratch" pour acceuillir nos outils.

@@ -3,8 +3,9 @@ slug: howl
 title: HOWL - Hypermedia partout
 authors: [ jonas ]
 description: Sobriété, simplicité dans notre code de développement. HOWL ! ne succombez pas à la pression des javascripties. Soyez libre de choisir la technologie qui correspond le mieux à vos goûts.
-tags: [ blog, tibillet, histoire, origine ]
-image: /img/blog/hypermedia/whowillwin.png
+tags: [ blog, hypermedia, hyperscript, htmx, sobriété, simplicité, javascript, ]
+keywords: [ blog, hypermedia, hyperscript, htmx, sobriété, simplicité, javascript, ]
+image: /img/blog/hypermedia/original.png
 draft: false
 ---
 

@@ -2,7 +2,8 @@
 slug: federation-part4
 title: Fédération 4 - Design
 authors: jonas
-wiktags: [ cashless, fédération, portefeuille, wallet, coopérative, scic, code commun, tibillet, design ]
+keywords: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
+tags: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
 image: /img/federons/design_head.jpg
 description: Fédérons TiBillet, quatrième partie, parlons Design.
 ---

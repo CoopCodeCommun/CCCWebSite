@@ -2,7 +2,8 @@
 slug: federation-part3
 title: Fédération 3 - Structure et historique
 authors: jonas
-wiktags: [ cashless, fédération, portefeuille, wallet, coopérative, scic, code commun, tibillet ]
+keywords: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
+tags: [cashless, fédération, portefeuille, wallet, openwallet, caisse enregistreuse, tibillet, réunion des tiers-lieux, RTLx, économie sociale et solidaire, ess, coopérative, scic]
 image: /img/federons/04-start_fede_notitle.png
 description: Fédérons TiBillet, troisième partie.
 ---
