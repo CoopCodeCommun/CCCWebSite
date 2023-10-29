@@ -127,23 +127,36 @@ const config = {
                         ],
                     },
                     {
-                        title: 'Communauté',
+                        title: 'Communauté et Contacts',
                         items: [
                             {
-                                label: 'Rocket Chat',
-                                href: 'https://chat.tiers-lieux.org/channel/TiBillet',
+                                label: 'Rocket Chat Tiers Lieux',
+                                href: 'https://chat.tiers-lieux.org/channel/TiBillet/',
+                            },
+                            {
+                                label: 'Rocket Chat Communecter',
+                                href: 'chat.communecter.org/channel/tibillet/',
                             },
                             {
                                 label: 'Discord',
                                 href: 'https://discord.gg/pmVMJ4eMQB',
                             },
+                                                        {
+                                label: 'Email',
+                                href: 'contact@tibillet.re',
+                            },
+
                         ],
                     },
                     {
-                        title: 'Codes sources',
+                        title: 'Divers',
                         items: [
                             {
-                                label: 'GitHub Coopérative',
+                                label: 'Flux RSS',
+                                href: 'https://codecommun.coop/blog/rss.xml',
+                            },
+                            {
+                                label: 'GitHub Code Commun',
                                 href: 'https://github.com/CoopCodeCommun/',
                             },
                             {
