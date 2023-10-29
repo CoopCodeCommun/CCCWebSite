@@ -17,6 +17,8 @@ Dans la série "Libérez vous de la pression qu'apporte le Javascript partout" (
 abordons ici HTMX. Une nouvelle façon de faire des choses anciennes, et une simplification drastique de votre code
 frontend pour réaliser des choses modernes.
 
+Et puis nous, dans la coop', on aime bien les choses simples. On mets HTMX partout dans TiBillet :)
+
 ### HTMX, c'est quoi ?
 
 [HTMX](https://htmx.org/) vous donne accès à AJAX, aux transitions CSS, aux WebSockets et aux événements envoyés par le
