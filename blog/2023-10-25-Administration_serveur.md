@@ -35,6 +35,39 @@ ssh-copy-id <user>@<ip>
 nano .ssh/authorized_keys 
 ````
 
+#### Changer le port d'écoute du service SSH et obliger la connexion via clé ssh
+
+```shell
+sudo nano /etc/ssh/sshd_config
+# Port 22
+Port 2252 # choisissez un port entre 1024 et 65535
+
+# On en profite pour autoriser l'agent forwarding
+# Cela sera trés utile pour pull/push des dépots git avec sa propre identité
+# plutôt que celle du serveur.
+AllowAgentForwarding yes
+
+# Pour encore plus d'efficacité, on force la clé ssh.
+# L'user n'en sera que plus reconnaissable, avec sa clé et son agent
+# Attention à bien backuper votre clé. Si vous la perdez, vous perdez la main sur le serveur.
+
+# To disable tunneled clear text passwords, change to no here!
+PasswordAuthentication no
+#PermitEmptyPasswords no
+
+
+```
+
+Attention, sur les serveurs VPS Ovh, un fichier de conf' ssh se cache dans le dossier /etc/ssh/sshd_config.d/ et permet
+la connexion via mot de passe.
+C'est utile pour la première connexion, mais ^ensez à le supprimer si vous voulez forcer la connexion par clé.
+
+On recharge le daemon ssh :
+
+```shell
+sudo service sshd reload
+```
+
 #### Installer Crowdsec
 
 Crowdsec est une solution open source très utile pour gérer la sécurité de votre serveur.
@@ -63,25 +96,6 @@ Une commande du type suivant vous sera proposé :
 Lancez la, puis accepter l'invitation sur l'interface web.
 
 Rebootez le serveur.
-
-#### Changer le port d'écoute du service SSH
-
-```shell
-sudo nano /etc/ssh/sshd_config
-# Port 22
-Port 2252 # choisissez un port entre 1024 et 65535
-
-# On en profite pour autoriser l'agent forwarding
-# Cela sera trés utile pour pull/push des dépots git avec sa propre identité
-# plutôt que celle du serveur.
-AllowAgentForwarding yes
-```
-
-On recharge le daemon ssh :
-
-```shell
-sudo service sshd reload
-```
 
 ### Installation des dépendances
 
@@ -156,5 +170,5 @@ chiffrée en TLS !
 # Conclusion
 
 Et Hop ! Notre serveur est prêt pour acceuillir tous nos services futurs.
-Dans le prochain article, nous allons voir comment installer le moteur TiBillet d'adhésion, de reservation et d'agenda
+Dans un prochain article, nous allons voir comment installer Traefik en mode Wildcard pour le moteur TiBillet d'adhésion, de reservation et d'agenda
 fédéré !

@@ -143,7 +143,7 @@ const config = {
                             },
                             {
                                 label: 'Email',
-                                href: 'contact@tibillet.re',
+                                href: 'mailto:contact@tibillet.re',
                             },
 
                         ],
