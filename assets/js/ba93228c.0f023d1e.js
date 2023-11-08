@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5363],{4640:e=>{e.exports=JSON.parse('{"label":"wildcard","permalink":"/blog/tags/wildcard","allTagsPath":"/blog/tags","count":1}')}}]);
