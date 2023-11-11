@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7878],{713:e=>{e.exports=JSON.parse('{"label":"sam et max","permalink":"/blog/tags/sam-et-max","allTagsPath":"/blog/tags","count":2}')}}]);
