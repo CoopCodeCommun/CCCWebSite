@@ -33,15 +33,15 @@ Cela permet d’augmenter drastiquement la lisibilité des programmes. Et chez C
 Normalement, si vous voulez mettre le contenu d’un tuple dans des variables, vous devez procéder ainsi :
 
 ```python
->> > ducks = ('riri', 'fifi', 'loulou')
->> > duck1 = ducks[0]
->> > duck2 = ducks[1]
->> > duck3 = ducks[2]
->> > print(duck1)
+>>> ducks = ('riri', 'fifi', 'loulou')
+>>> duck1 = ducks[0]
+>>> duck2 = ducks[1]
+>>> duck3 = ducks[2]
+>>> print(duck1)
 'riri'
->> > print(duck2)
+>>> print(duck2)
 'fifi'
->> > print(duck3)
+>>> print(duck3)
 'loulou'
 ```
 
@@ -49,12 +49,12 @@ L’unpacking, qu’on pourrait traduire par le terme fort moche de “déballag
 faire la même chose, bien plus facilement :
 
 ```python
->> > duck1, duck2, duck3 = ducks
->> > print(duck1)
+>>> duck1, duck2, duck3 = ducks
+>>> print(duck1)
 'riri'
->> > print(duck2)
+>>> print(duck2)
 'fifi'
->> > print(duck3)
+>>> print(duck3)
 'loulou'
 ```
 
