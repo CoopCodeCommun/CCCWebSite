@@ -20,7 +20,7 @@ très probablement vous aider à votre tour.
 Dans ce premier d'une, je l'espère, longue série d'articles sur python, parlons d'une des 5 choses
 obligatoire à apprendre en python d'après feu le bog Sam&Max.
 
-L’unpacking est une autre fonctionalité typiquement pythonienne qui permet de prendre un itérable (souvent un tuple), et
+L’unpacking est une fonctionalité typiquement pythonienne qui permet de prendre un itérable (souvent un tuple), et
 de mettre ses éléments dans des variables d’une traite.
 
 Cela permet d’augmenter drastiquement la lisibilité des programmes. Et chez Code Commun, on aime tout ce qui peut aider

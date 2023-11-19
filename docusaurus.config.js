@@ -94,6 +94,7 @@ const config = {
                     {to: '/docs/category/équipe', label: 'Équipe', position: 'left'},
                     {to: '/docs/category/créations', label: 'Créations', position: 'left'},
                     {to: '/docs/category/services', label: 'Services', position: 'left'},
+                    {to: '/docs/category/formations', label: 'Formations', position: 'left'},
                     {to: '/blog', label: 'Recettes & blog', position: 'left'},
                     {
                         href: 'https://github.com/CoopCodeCommun/',
@@ -119,6 +120,10 @@ const config = {
                             {
                                 label: 'Services',
                                 to: '/docs/category/services',
+                            },
+                            {
+                                label: 'Formations',
+                                to: '/docs/category/formations',
                             },
                             {
                                 label: 'Blog',

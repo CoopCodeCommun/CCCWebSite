@@ -13,8 +13,6 @@ image: /img/Graphical_codecommun270.png
 
 - [TiBillet](https://tibillet.org/)
 - [Nextcloud](https://nextcloud.com/)
-- [Outline](https://www.getoutline.com/)
-- [Mattermost](https://mattermost.com/)
 - [Odoo](https://www.odoo.com/fr_FR/)
 
 
