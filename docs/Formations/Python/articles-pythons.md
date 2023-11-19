@@ -20,3 +20,4 @@ savoir plus.
 ## Les bases
 
 - [Unpacking](/blog/python-unpacking)
+- [Les listes en intension](/blog/python-comprehension-list)
