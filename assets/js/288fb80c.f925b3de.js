@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[756],{2822:e=>{e.exports=JSON.parse('{"label":"compli","permalink":"/blog/tags/compli","allTagsPath":"/blog/tags","count":1}')}}]);
