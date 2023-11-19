@@ -4,10 +4,12 @@ title: Python - Comprehension Lists
 authors: jonas
 keywords: [ python, dev, compli, comprehension list, listes en intention, sam et max ]
 tags: [ python, dev, compli, comprehension list, listes en intention, sam et max ]
-image: /img/blog/python-unboxing.jpg
+image: /img/blog/python-gen.jpg
 description: Dans le top 10 des raisons d’aimer Python se hisse aisément les listes en intension, ou “comprehension lists”. Rappel du concept, et un petit tour complet de ce qu’on peut en faire.
 draft: false
 ---
+
+![/img/blog/python-gen.jpg](/img/blog/python-gen.jpg)
 
 # Python - Comprehension Lists
 
