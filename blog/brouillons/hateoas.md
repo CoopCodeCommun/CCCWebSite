@@ -2,8 +2,8 @@
 slug: HATEOAS
 title: Hypermedia as the Engine of Application State (HATEOAS)
 authors: jonas
-keywords: [ ]
-tags: [ ]
+keywords: [ hateoas, api, json, html, rest, hypermedia, htmx, django ]
+tags: [ hateoas, api, json, html, rest, hypermedia, htmx, django ]
 image: /img/blog/traefik_docker_letsencrypt.png
 description: Traduction de l'article de Carson Gross - https://htmx.org/essays/hateoas/
 draft: true

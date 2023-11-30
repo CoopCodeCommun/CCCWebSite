@@ -2,8 +2,8 @@
 slug: sysadmin-mon-chaton-part2
 title: Pourquoi j'ai tendance à ne pas utiliser Content Negotiation (négociation de contenu)
 authors: jonas
-keywords: [ ]
-tags: [ ]
+keywords: [ hateoas, api, json, html, rest, hypermedia, htmx, django ]
+tags: [ hateoas, api, json, html, rest, hypermedia, htmx, django ]
 image: /img/blog/traefik_docker_letsencrypt.png
 description: Cache, vary, content negotiation, django, htmx, cloudflare
 draft: true

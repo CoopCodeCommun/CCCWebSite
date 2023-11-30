@@ -2,7 +2,7 @@
 slug: link-python
 title: Liens python
 description: Formations, recettes, compilation de note de blog. Apprennez Python !
-sidebar_position: 2
+sidebar_position: 10
 tags: [ python, dev, formations ]
 image: /img/Graphical_codecommun270.png
 ---

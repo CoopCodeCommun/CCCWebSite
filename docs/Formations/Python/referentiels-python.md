@@ -2,7 +2,7 @@
 slug: python-formation-courte
 title: From Scratch to Full-Stack ; 3 semaines pour découvrir Python
 description: Full Stack Python / Linux / Web, apprennez à coder en Python et à créer des applications web avec le Framework Django.
-sidebar_position: 1
+sidebar_position: 2
 tags: [ python, linux, django, web, html, css, dev, formations ]
 image: /img/Graphical_codecommun270.png
 ---
@@ -306,7 +306,7 @@ internet. ( Openclassrooms, Stackoverflow, Forum Ubuntu… )
 4. Intégrez des événements
 5. Combinez tout ce que vous avez appris
 
-### Module 4: Le Framework Django
+## Module 4: Le Framework Django
 
 #### Partie 1 – Faites connaissance avec Django
 
