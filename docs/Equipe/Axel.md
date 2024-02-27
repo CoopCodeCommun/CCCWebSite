@@ -38,4 +38,4 @@ Mémoires de recherche :
 - Les mécanismes de ténacité chez les musiciens professionnels
 - Aspect écologique des festivals de musique en Europe. Étude de cas : Green Europe Experience
 
-Musicien sur mes heures perdues, je souhaite encourager la pratique amateure au travers de projets culturels innovants. 
+Musicien sur mes heures perdues, je souhaite encourager la pratique amateur au travers de projets culturels innovants. 
