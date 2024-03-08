@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[635],{5106:e=>{e.exports=JSON.parse('{"label":"comprehension list","permalink":"/blog/tags/comprehension-list","allTagsPath":"/blog/tags","count":1}')}}]);

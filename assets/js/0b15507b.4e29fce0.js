@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4848],{1058:e=>{e.exports=JSON.parse('{"label":"histoire","permalink":"/blog/tags/histoire","allTagsPath":"/blog/tags","count":1}')}}]);

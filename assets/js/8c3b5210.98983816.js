@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6911],{3690:e=>{e.exports=JSON.parse('{"label":"wallet","permalink":"/blog/tags/wallet","allTagsPath":"/blog/tags","count":9}')}}]);

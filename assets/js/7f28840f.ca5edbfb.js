@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2980],{1181:e=>{e.exports=JSON.parse('{"label":"traefik","permalink":"/blog/tags/traefik","allTagsPath":"/blog/tags","count":2}')}}]);

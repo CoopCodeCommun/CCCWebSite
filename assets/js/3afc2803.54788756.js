@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4379],{7876:e=>{e.exports=JSON.parse('{"label":"domination","permalink":"/blog/tags/domination","allTagsPath":"/blog/tags","count":1}')}}]);

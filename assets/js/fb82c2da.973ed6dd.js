@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[1255],{8740:e=>{e.exports=JSON.parse('{"label":"facilitateur","permalink":"/docs/tags/facilitateur","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Equipe/Axel","title":"Axel CHABRAN","description":"Coordinateur de projet.","permalink":"/docs/Equipe/Axel"}]}')}}]);

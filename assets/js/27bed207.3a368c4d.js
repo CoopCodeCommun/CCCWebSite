@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7120],{2624:e=>{e.exports=JSON.parse('{"label":"ovh","permalink":"/blog/tags/ovh","allTagsPath":"/blog/tags","count":1}')}}]);

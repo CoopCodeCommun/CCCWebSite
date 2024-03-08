@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[8954],{127:e=>{e.exports=JSON.parse('{"label":"sobri\xe9t\xe9","permalink":"/blog/tags/sobriete","allTagsPath":"/blog/tags","count":1}')}}]);

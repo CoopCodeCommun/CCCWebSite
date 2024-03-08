@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[90],{8156:e=>{e.exports=JSON.parse('{"label":"\xc9cosocialisme","permalink":"/blog/tags/ecosocialisme","allTagsPath":"/blog/tags","count":1}')}}]);

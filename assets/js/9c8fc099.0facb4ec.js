@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6578],{9032:e=>{e.exports=JSON.parse('{"label":"emancipation","permalink":"/blog/tags/emancipation","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6030],{8243:e=>{e.exports=JSON.parse('{"label":"cod-ensamb","permalink":"/blog/tags/cod-ensamb","allTagsPath":"/blog/tags","count":1}')}}]);

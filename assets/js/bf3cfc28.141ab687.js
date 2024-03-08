@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7134],{6553:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/htmx","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}')}}]);

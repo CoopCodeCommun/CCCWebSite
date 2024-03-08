@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7875],{847:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/reunion-des-tiers-lieux","page":1,"postsPerPage":6,"totalPages":1,"totalCount":6,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}')}}]);

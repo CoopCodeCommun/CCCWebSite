@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[3757],{9684:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/cooperative","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6795],{6613:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/sam-et-max","page":1,"postsPerPage":3,"totalPages":1,"totalCount":3,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[3850],{8217:e=>{e.exports=JSON.parse('{"label":"gandi","permalink":"/blog/tags/gandi","allTagsPath":"/blog/tags","count":1}')}}]);

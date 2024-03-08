@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2076],{6986:e=>{e.exports=JSON.parse('{"label":"poetry","permalink":"/blog/tags/poetry","allTagsPath":"/blog/tags","count":1}')}}]);

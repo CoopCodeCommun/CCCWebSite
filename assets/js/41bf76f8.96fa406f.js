@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4014],{8059:e=>{e.exports=JSON.parse('{"title":"\xc9quipe","description":"Pr\xe9sentation des membres de la coop\xe9rative.","slug":"/category/\xe9quipe","permalink":"/docs/category/\xe9quipe","navigation":{"next":{"title":"Axel CHABRAN","permalink":"/docs/Equipe/Axel"}}}')}}]);

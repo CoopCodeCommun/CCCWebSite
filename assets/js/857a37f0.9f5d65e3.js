@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6378],{9562:e=>{e.exports=JSON.parse('{"label":"gestion de projet","permalink":"/docs/tags/gestion-de-projet","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Equipe/Axel","title":"Axel CHABRAN","description":"Coordinateur de projet.","permalink":"/docs/Equipe/Axel"}]}')}}]);

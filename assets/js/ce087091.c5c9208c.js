@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[9632],{5050:e=>{e.exports=JSON.parse('{"label":"simplicit\xe9","permalink":"/blog/tags/simplicite","allTagsPath":"/blog/tags","count":1}')}}]);

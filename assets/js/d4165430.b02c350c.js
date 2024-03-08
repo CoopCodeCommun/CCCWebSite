@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4843],{1674:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/economie-sociale-et-solidaire","page":1,"postsPerPage":6,"totalPages":1,"totalCount":6,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5435],{6072:e=>{e.exports=JSON.parse('{"label":"htmx","permalink":"/blog/tags/htmx","allTagsPath":"/blog/tags","count":2}')}}]);

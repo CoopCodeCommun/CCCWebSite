@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4750],{6497:a=>{a.exports=JSON.parse('{"label":"Framablog","permalink":"/blog/tags/framablog","allTagsPath":"/blog/tags","count":1}')}}]);
