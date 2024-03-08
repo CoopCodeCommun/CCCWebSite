@@ -14,6 +14,7 @@ image: /img/Graphical_codecommun270.png
 Nous sommes très attachés à la notion de vie privée et de souveraineté numérique.
 Nous administrons et installons des solutions pour vous, mais vous restez propriétaire de vos données comme des serveurs
 sur lesquels elles sont hébergées. Nous ne revendons pas vos données, nous ne les utilisons pas à des fins commerciales.
+Tous nos outils sont privacy by design.
 
 ## Coopérative, pour une économie sociale et solidaire
 
@@ -23,12 +24,20 @@ qui permet de perréniser les projets et de les rendre plus résilients. Nous cr
 cotisations sociales et à la réapropriation des moyens de productions. En ce sens, nous valorisons et créons des
 logiciels **libres** et **open source** pour une plus grande mutualisation des ressources et des savoirs.
 
+Nous proposons aux acteurs et actrices, contributeur.rices et utilisateur.irces de nos outils de rejoindre la
+coopérative pour prendre part aux décisions et à la gouvernance de l'entreprise et des projets.
+
+La coopérative repose sur plusieurs pilliers :
+- La gouvernance partagée : Une personne = une voix
+- Lucrativité limitée : On ne rémunère pas le capital, on rémunère le travail.
+- Inclusivité : Toutes et tous peuvent rejoindre la coopérative. Nous ne choisissons pas nos collègues.
+
 ## Un développement durable et humain.
 
 En choisissant de travailler avec nous, vous soutenez une équipe de producteur.ices et de
-contributeur.ices de communs numériques. En nous choissisant, pour administrer ou installer vos serveurs, vous
-participez également au développement d'outils libres. Aussi, une partie de nos bénéfices sont reversés aux
-équipes de développement des outils utilisés et installés.
+contributeur.ices de communs numériques. En nous choissisant pour développer des solutions comme pour administrer ou
+installer vos serveurs, vous participez également au développement d'outils libres.
+Aussi, une partie de nos bénéfices sont reversés aux équipes de développement des outils utilisés et installés.
 
 Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.e.s du
 numérique.
