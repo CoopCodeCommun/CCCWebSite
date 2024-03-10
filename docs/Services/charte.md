@@ -48,7 +48,7 @@ La coopérative repose sur plusieurs pilliers :
 Exemple : Un.e contributeur.ice estime qu'il a besoin pour la tâche qu'il souhaite réaliser d'etre en CDD de 6 mois à un
 salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui valide la demande.
 
-### Transaparence des actions, mutualisation des besoins :
+### Transparence des actions, mutualisation des besoins :
 
 - Liste des [tâches en cours et des besoins](https://github.com/orgs/TiBillet/projects) publics.
 - Canaux de discussion en ligne pour échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
