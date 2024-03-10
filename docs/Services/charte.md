@@ -50,19 +50,19 @@ salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui v
 
 ### Transaparence des actions, mutualisation des besoins :
 
-- Liste des [tâches en cours et des besoins](https://github.com/orgs/TiBillet/projects) publique.
+- Liste des [tâches en cours et des besoins](https://github.com/orgs/TiBillet/projects) publics.
 - Canaux de discussion en ligne pour échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
-- Serveur pour des outils de travail en commun : Nextcloud, Outlines, BigBlueButton, Discourse, Element, etc ...
+- Serveur pour des outils libre de travail en commun : Nextcloud, Outlines, BigBlueButton, Discourse, Element, etc ...
 
 ### 3 Catégories d'associés : 3 collèges de votes.
 
-Chaque catégorie d'associé est un collège de vote qui possède 1/3 des votes lors du conseil d'administration et de gouvernance partagée.
+Chaque catégorie d'associé est un collège qui possède 1/3 des votes lors du conseil d'administration et de gouvernance partagée.
 
 - Responsables juridiques et mainteneur.euse.s.
 - Contributeur.trice.s
 - Partenaires et utilisateur.trice.s.
 
-## Un développement durable et humain.
+### Un développement durable et humain.
 
 En choisissant de travailler avec nous, vous soutenez une équipe productrice de communs numériques. 
 En nous choissisant pour développer des solutions comme pour administrer ou
@@ -72,7 +72,7 @@ Aussi, une partie de nos bénéfices sont reversés aux équipes de développeme
 Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.e.s du
 numérique.
 
-## Vos données, vos serveurs, vos logiciels.
+### Vos données, vos serveurs, vos logiciels.
 
 Nous sommes très attachés à la notion de vie privée et de souveraineté numérique.
 Nous administrons et installons des solutions pour vous, mais vous restez propriétaire de vos données comme des serveurs
