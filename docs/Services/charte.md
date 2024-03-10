@@ -4,10 +4,10 @@ title: Charte et valeurs.
 description: Les engagements et valeurs de la coopérative.
 sidebar_position: 1
 tags: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
-image: /img/Graphical_codecommun270.png
+image: /img/CCC-charte-social-card.jpg
 ---
 
-# Charte et valeurs :
+![/img/CCC-charte-social-card.jpg](/img/CCC-charte-social-card.jpg)
 
 ## Une coopérative pour des communs.
 
@@ -54,7 +54,9 @@ salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui v
 - Canaux de discussion en ligne pour échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
 - Serveur pour des outils de travail en commun : Nextcloud, Outlines, BigBlueButton, Discourse, Element, etc ...
 
-### 3 Catégories d'associés :
+### 3 Catégories d'associés : 3 collèges de votes.
+
+Chaque catégorie d'associé est un collège de vote qui possède 1/3 des votes lors du conseil d'administration et de gouvernance partagée.
 
 - Responsables juridiques et mainteneur.euse.s.
 - Contributeur.trice.s
