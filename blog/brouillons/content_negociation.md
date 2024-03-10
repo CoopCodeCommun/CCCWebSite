@@ -1,5 +1,5 @@
 ---
-slug: sysadmin-mon-chaton-part2
+slug: hypermedia-content-negociation
 title: Pourquoi j'ai tendance à ne pas utiliser Content Negotiation (négociation de contenu)
 authors: jonas
 keywords: [ hateoas, api, json, html, rest, hypermedia, htmx, django ]
