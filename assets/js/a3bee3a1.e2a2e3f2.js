@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7478],{2484:e=>{e.exports=JSON.parse('{"label":"licence libre","permalink":"/docs/tags/licence-libre","allTagsPath":"/docs/tags","count":1,"items":[{"id":"charte","title":"Charte et valeurs","description":"Les engagements et valeurs de la coop\xe9rative.","permalink":"/docs/charte"}]}')}}]);
