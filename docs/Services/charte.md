@@ -81,7 +81,7 @@ numérique.
 
 ### Vos données, vos serveurs, vos logiciels, votre coopérative.
 
-Nous sommes très attachés à la notion de vie privée et de souveraineté numérique.
+Nous sommes très attachés aux notions de vie privée et de souveraineté numérique.
 Nous administrons et installons des solutions pour vous, mais vous restez propriétaire de vos données comme des serveurs
 sur lesquels elles sont hébergées. Nous ne revendons pas vos données, nous ne les utilisons pas à des fins commerciales.
 Tous nos outils sont conçus privacy by design.
