@@ -91,7 +91,7 @@ const config = {
                     //     position: 'left',
                     //     label: 'Créations',
                     // },
-                    {to: '/charte', label: 'Charte', position: 'left'},
+                    {to: '/docs/charte', label: 'Charte', position: 'left'},
                     {to: '/docs/category/équipe', label: 'Équipe', position: 'left'},
                     {to: '/docs/category/créations', label: 'Créations', position: 'left'},
                     {to: '/docs/category/services', label: 'Services', position: 'left'},

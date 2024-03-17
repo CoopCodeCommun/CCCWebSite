@@ -1,6 +1,6 @@
 ---
 slug: charte
-title: Charte et valeurs.
+title: Charte et valeurs
 description: Les engagements et valeurs de la coopérative.
 sidebar_position: 1
 tags: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
