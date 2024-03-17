@@ -44,27 +44,34 @@ La coopérative repose sur plusieurs pilliers :
 - 100% des bénéfices sont ré-investi en reserve pour financer les contributeur.ice.s aux projets de la coopérative.
 - Transparence et budgets contributifs : Chacun est rémunéré.e en fonction de ce qu'iel estime juste et en toute
   transparence.
+- Seule la coopérative peut vendre ou racheter des parts sociales. Elle ne peut donc pas subir de rachat par des
+  investisseurs extérieurs, ni jouer le jeu de la spéculation financière. les parts ne peuvent être vendues à un tiers,
+  et le prix de vente ne peut être supérieur à la valeur nominale.
 
 Exemple : Un.e contributeur.ice estime qu'il a besoin pour la tâche qu'il souhaite réaliser d'etre en CDD de 6 mois à un
-salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui valide la demande.
+salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui valide la demande. Cela peut être tout aussi
+valable pour une simple journée de travail. Mission courte ou longue, mi temps ou plein temps, c'est à chacun de
+décider.
 
 ### Transparence des actions, mutualisation des besoins :
 
 - Liste des [tâches en cours et des besoins](https://github.com/orgs/TiBillet/projects) publics.
-- Canaux de discussion en ligne pour échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
+- Canaux de discussion en ligne pour
+  échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
 - Serveur pour des outils libre de travail en commun : Nextcloud, Outlines, BigBlueButton, Discourse, Element, etc ...
 
 ### 3 Catégories d'associés : 3 collèges de votes.
 
-Chaque catégorie d'associé est un collège qui possède 1/3 des votes lors du conseil d'administration et de gouvernance partagée.
+Chaque catégorie d'associé est un collège qui possède 1/3 des votes lors du conseil d'administration et de gouvernance
+partagée.
 
-- Responsables juridiques et mainteneur.euse.s.
+- Animatreur.trice.s.
 - Contributeur.trice.s
-- Partenaires et utilisateur.trice.s.
+- Utilisateur.trice.s.
 
 ### Un développement durable et humain.
 
-En choisissant de travailler avec nous, vous soutenez une équipe productrice de communs numériques. 
+En choisissant de travailler avec nous, vous soutenez une équipe productrice de communs numériques.
 En nous choissisant pour développer des solutions comme pour administrer ou
 installer vos serveurs, vous participez également au développement d'outils libres.
 Aussi, une partie de nos bénéfices sont reversés aux équipes de développement des outils utilisés et installés.
@@ -72,12 +79,12 @@ Aussi, une partie de nos bénéfices sont reversés aux équipes de développeme
 Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.e.s du
 numérique.
 
-### Vos données, vos serveurs, vos logiciels.
+### Vos données, vos serveurs, vos logiciels, votre coopérative.
 
 Nous sommes très attachés à la notion de vie privée et de souveraineté numérique.
 Nous administrons et installons des solutions pour vous, mais vous restez propriétaire de vos données comme des serveurs
 sur lesquels elles sont hébergées. Nous ne revendons pas vos données, nous ne les utilisons pas à des fins commerciales.
-Tous nos outils sont privacy by design.
+Tous nos outils sont conçus privacy by design.
 
 ## Liens & sources
 
