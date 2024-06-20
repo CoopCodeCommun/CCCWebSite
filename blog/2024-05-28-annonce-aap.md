@@ -32,8 +32,7 @@ Nous tenons à remercier chaleureusement nos partenaires et tous ceux qui ont cr
 TiBillet, c'est bien plus qu'un simple outil de billetterie. C'est une plateforme qui facilite l'interopérabilité et le partage entre différents lieux culturels et tiers-lieux. Que vous soyez un petit théâtre, un musée local, ou un espace de coworking, notre solution vous permet de mieux gérer vos activités, d'améliorer l'expérience de vos publics, et de contribuer à une économie culturelle plus solidaire et respectueuse de l'environnement.
 Restez connectés pour plus de mises à jour et rejoignez-nous sur Discord pour découvrir comment TiBillet continue de transformer la billetterie culturelle !
 
-![/img/blog/FR2030_Endossement_RVB_V.png](/img/blog/FR2030_Endossement_RVB_V.png)
-![/img/blog/Logotype-rouge-bleu.png](/img/blog/Logotype-rouge-bleu.png)
+![/img/blog/FR2030_Endossement_RVB_V.png](/img/blog/FR2030_Endossement_RVB_V.jpg)
 
 # Sur les Réseaux Sociaux
 
