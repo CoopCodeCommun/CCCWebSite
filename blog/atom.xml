@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codecommun.coop/blog</id>
     <title>Coopérative Code Commun Blog</title>
-    <updated>2023-11-19T00:00:00.000Z</updated>
+    <updated>2024-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codecommun.coop/blog"/>
     <subtitle>Coopérative Code Commun Blog</subtitle>
     <icon>https://codecommun.coop/img/CCClogo_node_color.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[TiBillet Lauréat de l'Appel à Projets « Solutions de Billetteries Innovantes » !]]></title>
+        <id>https://codecommun.coop/blog/annonce-aap</id>
+        <link href="https://codecommun.coop/blog/annonce-aap"/>
+        <updated>2024-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TiBillet a été sélectionné comme l'un des lauréats de l'appel à projets « Solutions de billetteries innovantes ».]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="/img/blog/FR2030_Endossement_RVB_V.jpg" src="/assets/images/FR2030_Endossement_RVB_V-186402f94f6920561b1c214692a35a78.jpg" class="img_DeQK"></p><p>Nous sommes très heureux de vous annoncer que TiBillet a été sélectionné comme l'un des lauréats de l'appel à projets «Solutions de billetteries innovantes» dans le cadre du volet culture du plan France 2030. Cet appel à projets avait pour objectif de donner aux institutions culturelles une meilleure maîtrise des données produites par leurs activités
+et de favoriser l’interopérabilité, la standardisation des données et la mutualisation des services de billetterie.</p><h1>Un Projet pour une Culture Partagée et Inclusive</h1><p>Notre projet avec TiBillet vise à créer des ponts entre les différentes structures culturelles, en mettant en avant des valeurs de coopération et de mutualisation. Grâce à des outils open source et libres, nous souhaitons offrir à tous les lieux culturels, y compris les plus petits, les moyens de mieux gérer leurs activités tout en restant fidèles à des principes de transparence, d'écologie et d'inclusion.</p><h1>Soutien et Reconnaissance</h1><p>Cet AAP, financé par le Gouvernement dans le cadre de #France2030, conçu en lien avec le Secrétariat général pour l'investissement et le ministère de la Culture, est opéré pour le compte de l’Etat par la Banque des Territoires (Groupe Caisse des Dépôts). Cette reconnaissance nous permet de continuer à développer nos solutions innovantes et inclusives pour le secteur culturel.</p><h1>Engagement et Prochaines Étapes</h1><p>Nous nous engageons à respecter toutes les obligations de communication associées à cette subvention. Vous verrez bientôt apparaître la mention « Opération soutenue par l’État dans le cadre du dispositif « Solutions de billetteries innovantes » de France 2030, opéré par la Caisse des Dépôts » sur nos documents et plateformes. Nous apposerons également les logotypes de France 2030 et de l'Opérateur conformément aux directives fournies.
+Nous tenons à remercier chaleureusement nos partenaires et tous ceux qui ont cru en notre vision : La Raffinerie, Vavangu’art, Le Demeter, Le Bisik, La Réunion des Tiers-Lieux, le PRMA, Communecter…pour ne citer qu’eux. Ce soutien renforce notre détermination à offrir des solutions éthiques et durables pour le secteur culturel.</p><h1>TiBillet, un Outil pour Tous</h1><p>TiBillet, c'est bien plus qu'un simple outil de billetterie. C'est une plateforme qui facilite l'interopérabilité et le partage entre différents lieux culturels et tiers-lieux. Que vous soyez un petit théâtre, un musée local, ou un espace de coworking, notre solution vous permet de mieux gérer vos activités, d'améliorer l'expérience de vos publics, et de contribuer à une économie culturelle plus solidaire et respectueuse de l'environnement.
+Restez connectés pour plus de mises à jour et rejoignez-nous sur Discord pour découvrir comment TiBillet continue de transformer la billetterie culturelle !</p><h1>Sur les Réseaux Sociaux</h1><p>Ne manquez pas nos annonces et mises à jour ! Suivez-nous et partagez notre aventure :</p><p><a href="https://tibillet.org/fr/" target="_blank" rel="noopener noreferrer">https://tibillet.org/fr/</a>
+et
+<a href="https://codecommun.coop/" target="_blank" rel="noopener noreferrer">https://codecommun.coop/</a></p><p>Cet AAP, financé par le Gouvernement dans le cadre de #France2030, conçu en lien avec le Secrétariat général pour l'investissement et le ministère de la Culture, est opéré pour le compte de l’Etat par la Banque des Territoires (Groupe Caisse des Dépôts).</p><p>@BanqueDesTerritoires, @SGInvestissement, @MinistereCulture</p><hr><p>Nous sommes impatients de partager cette aventure avec vous et de continuer à coopérer pour le futur de la billetterie culturelle !</p>]]></content>
+        <author>
+            <name>Axel Chabran</name>
+            <uri>https://axelchabran.com</uri>
+        </author>
+        <category label="BanqueDesTerritoires" term="BanqueDesTerritoires"/>
+        <category label="SGInvestissement" term="SGInvestissement"/>
+        <category label="MinistereCulture" term="MinistereCulture"/>
+        <category label="France2030" term="France2030"/>
+        <category label="tibillet" term="tibillet"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python - Comprehension Lists]]></title>
         <id>https://codecommun.coop/blog/python-comprehension-list</id>
