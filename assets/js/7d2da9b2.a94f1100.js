@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2718],{3536:e=>{e.exports=JSON.parse('{"label":"commission europ\xe9enne","permalink":"/blog/tags/commission-europeenne","allTagsPath":"/blog/tags","count":1}')}}]);
