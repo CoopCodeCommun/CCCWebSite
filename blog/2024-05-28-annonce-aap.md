@@ -1,7 +1,9 @@
 ---
 slug: annonce-aap
 title: TiBillet Lauréat de l'Appel à Projets « Solutions de Billetteries Innovantes » !
-authors: axel
+authors:
+  - name : axel
+    title: Administrateur
 keywords: [ aap, billetteries, tibillet, innovante, appel à projet,France2030, ministère de la culture, Caisse des Dépôts, Banque des Territoires, gouvernement ]
 tags: [ BanqueDesTerritoires, SGInvestissement, MinistereCulture, France2030, tibillet, ]
 image: /img/blog/FR2030_Endossement_RVB_V.jpg
