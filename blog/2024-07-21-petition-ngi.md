@@ -62,7 +62,7 @@ l’innovation en Europe.
 ![/img/blog/NGI_OpenCalls_new.jpg](/img/blog/NGI_OpenCalls_new.jpg)
 
 Par ailleurs, NGI permet des échanges et des collaborations à travers tous les pays de la zone euro et aussi avec les
-widening countries [1], ce qui est actuellement une réussite tout autant qu’un progrès en cours, comme le fut le
+widening countries [^1], ce qui est actuellement une réussite tout autant qu’un progrès en cours, comme le fut le
 programme Erasmus avant nous. NGI est aussi une initiative qui participe à l’ouverture et à l’entretien de relation sur
 un temps plus long que les financements de projets. NGI encourage également à l’implémentation des projets financés par
 le biais de pilotes, et soutient la collaboration au sein des initiatives, ainsi que l’identification et la
@@ -82,9 +82,8 @@ répondre sans renier la nécessité d’œuvrer pour la paix et la citoyenneté
 Dans ces perspectives, nous vous demandons urgemment de réclamer la préservation du programme NGI dans le programme de
 financement 2025.
 
----
 
-[1] Tels que définis par Horizon Europe, les États Membres élargis sont la Bulgarie, la Croatie, Chypre, la République
+[^1]: Tels que définis par Horizon Europe, les États Membres élargis sont la Bulgarie, la Croatie, Chypre, la République
 Tchèque, l’Estonie, la Grèce, la Hongrie, la Lettonie, la Lithuanie, Malte, la Pologne, le Portugal, la Roumanie, la
 Slovaquie et la Slovénie. Les pays associés élargies (sous conditions d’un accord d’association) l’Albanie, l’Arménie,
 la Bosnie Herzégovine, les Iles Feroé, la Géorgie, le Kosovo, la Moldavie, le Monténégro, le Maroc, la Macédoine du
