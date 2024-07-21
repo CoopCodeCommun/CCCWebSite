@@ -1,15 +1,18 @@
 ---
 slug: annonce-aap
 title: TiBillet Lauréat de l'Appel à Projets « Solutions de Billetteries Innovantes » !
-authors: Axel
+authors: axel
 keywords: [ aap, billetteries, tibillet, innovante, appel à projet,France2030, ministère de la culture, Caisse des Dépôts, Banque des Territoires, gouvernement ]
 tags: [ BanqueDesTerritoires, SGInvestissement, MinistereCulture, France2030, tibillet, ]
-image: /img/blog/FR2030_Endossement_RVB_V.png
-image: /img/blog/Logotype-rouge-bleu.png
+image: /img/blog/FR2030_Endossement_RVB_V.jpg
+
+#image: //static/img/blog/FR2030_Endossement_RVB_V.jpg
+#/static/img/blog/e: /img/blog/Logotype-rouge-bleu.png
 description: TiBillet a été sélectionné comme l'un des lauréats de l'appel à projets « Solutions de billetteries innovantes ».
 draft: false
 ---
 
+![/img/blog/FR2030_Endossement_RVB_V.jpg](/img/blog/FR2030_Endossement_RVB_V.jpg)
 
 Nous sommes très heureux de vous annoncer que TiBillet a été sélectionné comme l'un des lauréats de l'appel à projets «Solutions de billetteries innovantes» dans le cadre du volet culture du plan France 2030. Cet appel à projets avait pour objectif de donner aux institutions culturelles une meilleure maîtrise des données produites par leurs activités 
 et de favoriser l’interopérabilité, la standardisation des données et la mutualisation des services de billetterie.
@@ -32,7 +35,6 @@ Nous tenons à remercier chaleureusement nos partenaires et tous ceux qui ont cr
 TiBillet, c'est bien plus qu'un simple outil de billetterie. C'est une plateforme qui facilite l'interopérabilité et le partage entre différents lieux culturels et tiers-lieux. Que vous soyez un petit théâtre, un musée local, ou un espace de coworking, notre solution vous permet de mieux gérer vos activités, d'améliorer l'expérience de vos publics, et de contribuer à une économie culturelle plus solidaire et respectueuse de l'environnement.
 Restez connectés pour plus de mises à jour et rejoignez-nous sur Discord pour découvrir comment TiBillet continue de transformer la billetterie culturelle !
 
-![img/FR2030_Endossement_RVB_V.png](img/FR2030_Endossement_RVB_V.jpg)
 
 # Sur les Réseaux Sociaux
 
