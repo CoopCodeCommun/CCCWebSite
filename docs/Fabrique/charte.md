@@ -2,7 +2,7 @@
 slug: charte
 title: Charte et valeurs
 description: Les engagements et valeurs de la coopérative.
-sidebar_position: 1
+sidebar_position: 3
 tags: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
 image: /img/CCC-charte-social-card.jpg
 ---

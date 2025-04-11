@@ -31,16 +31,6 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'COmmunecter.org',
-        img: '/img/partenaires/logo_vert_dark_Plan de travail 1.png',
-        link: '',
-        description: (
-            <>
-                Votre réseau social libre et local
-            </>
-        ),
-    },
-    {
         title: 'RTLx',
         img: '/img/partenaires/Logo-RTL.png',
         link: '',

@@ -77,7 +77,6 @@ const config = {
                 name: 'keywords',
                 content: "Logiciel libre, coopérative, développement, informatique, Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"
             }],
-
             navbar: {
                 title: 'Coopérative Code Commun',
                 logo: {
@@ -91,7 +90,7 @@ const config = {
                     //     position: 'left',
                     //     label: 'Créations',
                     // },
-                    {to: '/docs/charte', label: 'Charte', position: 'left'},
+                    // {to: '/docs/charte', label: 'Fabrique', position: 'left'},
                     {to: '/docs/category/équipe', label: 'Équipe', position: 'left'},
                     {to: '/docs/category/créations', label: 'Créations', position: 'left'},
                     {to: '/docs/category/services', label: 'Services', position: 'left'},
@@ -136,12 +135,8 @@ const config = {
                         title: 'Communauté et Contacts',
                         items: [
                             {
-                                label: 'Rocket Chat Tiers Lieux',
-                                href: 'https://chat.tiers-lieux.org/channel/TiBillet/',
-                            },
-                            {
-                                label: 'Rocket Chat Communecter',
-                                href: 'https://chat.communecter.org/channel/tibillet/',
+                                label: 'Matrix',
+                                href: 'https://matrix.to/#/#tibillet:tiers-lieux.org',
                             },
                             {
                                 label: 'Discord',
