@@ -9,51 +9,51 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-    {
-        title: 'Mike CARON',
-        img: '/img/MikeCadre300.png',
-        description: (
-            <>
-                Bionic FabLabeur
-            </>
-        ),
-    },
-    {
-        title: 'Axel CHABRAN',
-        img: '/img/AxelLoupe300.png',
-        description: (
-            <>
-                Project Manago-coopératif
-            </>
-        ),
-    },
-    {
-        title: 'Nicolas DIJOUX',
-        img: '/img/Nico300.png',
-        description: (
-            <>
-                Kréol Javascript Framework Maker
-            </>
-        ),
-    },
-    {
-        title: 'Glen Llaci',
-        img: '/img/GlenMiaou300.png',
-        description: (
-            <>
-                Extracteur de ruby
-            </>
-        ),
-    },
-    {
-        title: 'Jonas TURBEAUX',
-        img: '/img/jojoCable300.png',
-        description: (
-            <>
-                Charmeur de python
-            </>
-        ),
-    },
+    // {
+    //     title: 'Mike CARON',
+    //     img: '/img/MikeCadre300.png',
+    //     description: (
+    //         <>
+    //             Bionic FabLabeur
+    //         </>
+    //     ),
+    // },
+    // {
+    //     title: 'Axel CHABRAN',
+    //     img: '/img/AxelLoupe300.png',
+    //     description: (
+    //         <>
+    //             Project Manago-coopératif
+    //         </>
+    //     ),
+    // },
+    // {
+    //     title: 'Nicolas DIJOUX',
+    //     img: '/img/Nico300.png',
+    //     description: (
+    //         <>
+    //             Kréol Javascript Framework Maker
+    //         </>
+    //     ),
+    // },
+    // {
+    //     title: 'Glen Llaci',
+    //     img: '/img/GlenMiaou300.png',
+    //     description: (
+    //         <>
+    //             Extracteur de ruby
+    //         </>
+    //     ),
+    // },
+    // {
+    //     title: 'Jonas TURBEAUX',
+    //     img: '/img/jojoCable300.png',
+    //     description: (
+    //         <>
+    //             Charmeur de python
+    //         </>
+    //     ),
+    // },
 
 ];
 

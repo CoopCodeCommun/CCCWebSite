@@ -41,6 +41,67 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
+        title: 'La Rosêe',
+        img: '/img/partenaires/larosee.jpg',
+        link: '',
+        description: (
+            <>
+                Réseau régional Occitanie
+            </>
+        ),
+    },
+    {
+        title: 'ANTL',
+        img: '/img/partenaires/antl.png',
+        link: '',
+        description: (
+            <>
+                L'Association Nationale des Tiers Lieux
+            </>
+        ),
+    },
+    {
+        title: 'France Tiers Lieux',
+        img: '/img/partenaires/ftl.png',
+        link: '',
+        description: (
+            <>
+                France Tiers Lieux
+            </>
+        ),
+    },
+        {
+        title: 'Circa',
+        img: '/img/partenaires/logo-alternative.fhd.png',
+        link: '',
+        description: (
+            <>
+                Pôle national du cirque actuel
+            </>
+        ),
+    },
+    {
+        title: 'La Compagnie des Tiers-lieux',
+        img: '/img/partenaires/ctl.svg',
+        link: '',
+        description: (
+            <>
+                Réseau régional des Haut-de-France
+            </>
+        ),
+    },
+    {
+        title: 'Ministère de la culture',
+        img: '/img/partenaires/france_2030.png',
+        link: '',
+        description: (
+            <>
+                Lauréat dispositif « Solutions de billetteries innovantes » de France 2030
+            </>
+        ),
+    },
+
+    {
         title: 'Le Demeter',
         img: '/img/partenaires/Demeter.resized.png',
         link: '',
