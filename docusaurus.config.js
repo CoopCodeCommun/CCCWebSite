@@ -91,7 +91,7 @@ const config = {
                     //     label: 'Créations',
                     // },
                     // {to: '/docs/charte', label: 'Fabrique', position: 'left'},
-                    {to: '/docs/category/équipe', label: 'Équipe', position: 'left'},
+                    {to: '/docs/category/la-fabrique-à-commun', label: 'Présentation', position: 'left'},
                     {to: '/docs/category/créations', label: 'Créations', position: 'left'},
                     {to: '/docs/category/services', label: 'Services', position: 'left'},
                     {to: '/docs/category/formations', label: 'Formations', position: 'left'},
@@ -110,8 +110,8 @@ const config = {
                         title: 'Plan du site',
                         items: [
                             {
-                                label: 'Équipe',
-                                to: '/docs/category/équipe',
+                                label: 'Présentation',
+                                to: '/docs/category/la-fabrique-à-commun',
                             },
                             {
                                 label: 'Créations',

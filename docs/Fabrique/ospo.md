@@ -1,18 +1,19 @@
 ---
 slug: ospo
 title: Le programme
-description: Un OSPO, c'est quoi ?
+description: Code commun, c'est Un OSPO. Ça veut dire quoi Open source program office ?
 sidebar_position: 2
 tags: [ licence libre, coopérative, économie sociale et solidaire, commun numérique]
 image: /img/CCC-charte-social-card.jpg
 ---
 
+# :rocket: Le programme : on monte un OSPO !
 
-# :rocket: Le programme. C'est quoi un OSPO ?
+OSPO, ça veut dire en anglais : *Open source program office*. 🧑‍🔧 C'est une équipe qui prend soin d'une ressource et qui est attentif à ce que tout le monde puisse s'en servir librement.
 
-OSPO : Open source program office
+Ici, nous allons emprunter et synthétiser une partie du verbe de Sébastien Dinot dans sa conférence : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 🧠 Merci beaucoup à lui !
 
-Ici, nous allons emprunter et synthétiser une partie du verbe de Sébastien Dinot dans sa conférence : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code)
+Le but de la coopérative Code Commun est d'essayer d'emprunter cette direction. Le chemin est long, mais la voie est libre ! 💪
 
 ---
 
@@ -27,15 +28,14 @@ Spoiler : ce ne sera jamais « pour vos beaux yeux », mais parce que **le proje
 Un utilisateur potentiel a des attentes simples, mais non négociables :
 
 - ✅ **Que le logiciel réponde à un vrai besoin**, pas seulement au vôtre. Pensez comme vos utilisateurs : ce qu’ils attendent peut être très différent de vos propres cas d’usage.
-  
-- ✅ **Qu’il soit simple à mettre en œuvre.** Si l’installation prend 3 heures (ou pire : 18), vous perdez tout le monde en chemin.
-  
-- ✅ **Qu’il soit ergonomique, robuste et fiable.** Ce sont les bases d’un logiciel professionnel ou utilisé en production.
-  
+
+- ✅ **Qu’il soit simple à mettre en œuvre.** Si l’installation prend 3 heures et qu'il est mal documenté, vous perdez tout le monde en chemin.
+
+- ✅ **Qu’il soit ergonomique, robuste et fiable.** Ce sont les bases d’un logiciel professionnel utilisable en production.
+
 - ✅ **Qu’il y ait une vraie documentation.** Ne répondez jamais : *« Lis le code, tu comprendras. »* Un projet non documenté, c’est un projet inutilisable, donc mort.
-  
+
 - ✅ **Qu’un espace d’échange soit disponible.** Forum, canal Matrix, mailing-list, GitHub Discussions… Ce n’est pas du support client, c’est de la communauté vivante.
-  
 
 > 📌 **Votre outil peut être modeste, mais il doit être clair, documenté et facile à découvrir.**
 
@@ -46,15 +46,14 @@ Un utilisateur potentiel a des attentes simples, mais non négociables :
 Un contributeur ne demande pas l’impossible. Il veut pouvoir :
 
 - ✅ **Accéder au dépôt en continu.** Oubliez le “libre en interne” où l’on publie un `.tar.gz` tous les six mois. Un projet vivant est un projet avec un dépôt public, actif, accessible en permanence.
-  
+
 - ✅ **Lire une documentation technique claire.** Les contributeurs ne sont pas devins. Expliquez l’architecture, les principes, les processus de contribution.
-  
+
 - ✅ **Utiliser des outils de collaboration modernes.** Git, CI/CD, système d’issues clair, etc. Montrez que vous accueillez les contributions avec soin.
-  
+
 - ✅ **Trouver du code propre et bien conçu.** Personne ne veut déboguer un plat de spaghettis.
-  
+
 - ✅ **Se sentir en confiance.** Transparence, bienveillance, communication ouverte : voilà les vraies bases d’un collectif contributif.
-  
 
 > 💡 **Demandez-vous toujours : dans ce projet, est-ce que *vous-même* auriez envie de contribuer ?**
 
@@ -63,13 +62,12 @@ Un contributeur ne demande pas l’impossible. Il veut pouvoir :
 #### 🛠️ Bonnes pratiques OSPO :
 
 - Faites une **checklist des attentes utilisateur/contributeur**, cochez ce qui est déjà en place.
-  
+
 - Mettez en place un **guide de contribution clair**, avec des instructions simples dès la première PR.
-  
+
 - Organisez un **onboarding contributeur** (ex. : issues « good first issue », labels pour les nouveaux).
-  
+
 - Gardez en tête la **valeur de la confiance** : la transparence est un investissement, pas une option.
-  
 
 ## 🧭 Étape 2 – Faire connaître votre projet libre : la communication externe
 
@@ -97,13 +95,12 @@ Interventions en conférence, articles de blog, interviews, podcasts : diversifi
 #### 🛠️ Bonnes pratiques OSPO :
 
 - Maintenez un **calendrier de communication** (même léger).
-  
+
 - Équipez les développeurs pour qu’ils puissent eux aussi relayer l’info.
-  
+
 - Valorisez les contributeurs et les nouveautés du projet.
-  
+
 - Ouvrez un canal dédié pour recueillir des retours (mail, formulaire, GitHub Discussions…).
-  
 
 > 📌 **Rappelez-vous : soyez proactifs, pas passifs.** Vous ne « spammez » pas, vous **rendez visible un commun vivant**.
 
@@ -119,9 +116,8 @@ Mais le **logiciel libre**, aussi technique soit-il, est **un objet juridique**.
 Chaque fois que vous touchez à du code, vous touchez à quelque chose qui **a une double nature** :
 
 - C’est un **objet technique** : ça compile ou ça plante, ça marche ou ça crash.
-  
+
 - C’est un **objet juridique** : il est publié sous une licence, avec des conditions d’usage, de modification, de redistribution.
-  
 
 Et mal gérer cet aspect, c’est **produire des “chimères juridiques”** : des assemblages de composants incompatibles entre eux, qui créent de vrais risques pour votre projet ou votre entreprise.
 
@@ -137,19 +133,20 @@ Choisir une licence n’est pas sorcier, mais ce n’est pas anodin :
 - Utilisez des ressources comme :
   
   - [ChooseALicense.com](https://choosealicense.com/)
-    
+  
   - [TLDRLegal](https://tldrlegal.com/)
-    
+  
   - OpenSource.org
-    
+
 - **N’écrivez jamais votre propre licence !**
   
   - Une licence maison est un repoussoir.
-    
+  
   - Elle est souvent incompatible, incomprise, et inutilisable par d'autres.
-    
+  
   - Utilisez des licences **reconnues** (MIT, Apache 2.0, GPLv3, etc.)
-    
+  
+  - Si vous voulez utiliser une [licence éthique](https://ethicalsource.dev/licenses/) pour indiquer votre engagement, réfléchissez bien à la façon dont vous la défendrez.
 
 Et surtout, **veillez à la compatibilité des dépendances**.  
 Vous publiez un projet sous licence MIT ? Ne glissez pas dedans un composant sous GPL sans réfléchir. Ce serait créer une incohérence juridique majeure.
@@ -161,6 +158,8 @@ Vous publiez un projet sous licence MIT ? Ne glissez pas dedans un composant sou
 Qui détient les droits sur le code ?  
 Sans clarification, la situation est floue. Et le flou est toujours un frein à l’adoption ou à la contribution.
 
+C'est un peu la partie la plus relou. Hésitez pas à poser des questions à un juriste. Vous aurez aussi plus de détail sur la conférence de Sébastien Dinot : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 
+
 Trois stratégies principales existent :
 
 ---
@@ -170,11 +169,10 @@ Trois stratégies principales existent :
 Le contributeur transfère ses droits patrimoniaux au porteur du projet.
 
 - ✅ Permet une gestion centralisée, plus simple sur le long terme.
-  
+
 - ❌ Très clivant : peu de gens acceptent de “donner” leur code.
-  
+
 - ⚠️ À éviter, sauf cas très particuliers (FSF, projets à forte gouvernance juridique).
-  
 
 ---
 
@@ -185,9 +183,8 @@ Le contributeur conserve ses droits, mais **autorise l’utilisation du code** d
 Deux formes :
 
 - **ICLA** : pour les contributeurs individuels.
-  
+
 - **CCLA** : pour les contributions faites dans le cadre d’un emploi.
-  
 
 👍 Bien sécurisé juridiquement.  
 👎 Lourdeur administrative, lenteur, risque d’oubli (ex : changement d’employeur non signalé).
@@ -201,9 +198,8 @@ Certains projets, comme Eclipse, imposent un renouvellement tous les 3 ans. Cela
 C’est la méthode **la plus simple**, utilisée notamment par la Linux Foundation, GitLab, Red Hat, etc.
 
 - Le contributeur certifie, à chaque commit, qu’il est en droit de soumettre le code.
-  
+
 - Cela se fait via l’option `-s` dans Git (`git commit -s`), qui ajoute automatiquement un champ `Signed-off-by`.
-  
 
 🟢 Très léger administrativement.  
 🟡 Moins solide juridiquement que les CLA.  
@@ -214,15 +210,16 @@ C’est la méthode **la plus simple**, utilisée notamment par la Linux Foundat
 ### ⚙️ Bonnes pratiques OSPO côté juridique
 
 - 📌 **Affichez clairement la licence** du projet (dans le dépôt, la doc, le site…).
-  
+
 - 🔎 **Vérifiez les licences des dépendances**, et assurez leur compatibilité.
-  
+
 - 📂 Proposez un **modèle de DCO ou CLA prêt à l’usage**, selon le choix de votre projet.
-  
+
 - 💬 Expliquez votre choix dans la documentation : cela instaure la confiance.
-  
+
 - 🛑 N’acceptez **aucune contribution “sauvage”** sans validation juridique.
-  
+
+---
 
 ## 🌱 Étape 4 : Animer une communauté vivante : le cœur du logiciel libre
 
@@ -271,20 +268,18 @@ Pas de communauté pérenne sans **règles du jeu** claires. C’est là qu’in
 📜 C’est un peu la **constitution** de votre projet :
 
 - Où on va 🚀 ;
-  
+
 - Comment on prend les décisions 🗳️ ;
-  
+
 - Qui fait quoi 🧑‍💼.
-  
 
 👉 Publier ce cadre, c’est :
 
 - Gagner en **transparence** ;
-  
+
 - Créer de la **confiance** ;
-  
+
 - Permettre à chacun de **s’engager en conscience**.
-  
 
 🛑 Attention cependant : ne sacralisez pas tout.  
 Exemple : Orekit mentionne encore les *patchs par mail* dans sa gouvernance… alors que plus personne ne fait ça depuis longtemps.  
@@ -298,26 +293,26 @@ Moralité : ne mettez que ce qui doit vraiment être gravé dans le marbre.
 Il en existe plusieurs, chacun avec ses avantages et ses pièges.
 
 1. **Le dictateur bienveillant à vie (BDFL)** 👑  
-  → Rapide, efficace, mais étouffe la participation. Gare au fork…
-  
+   → Rapide, efficace, mais étouffe la participation. Gare au fork…
+
 2. **La méritocratie** 🏅  
-  → Le mérite passé donne le pouvoir. Problème : les anciens sont parfois écoutés *même quand ils ne font plus rien*, au détriment des nouveaux actifs.  
-  ⚠️ Attention à l’effet « caste ».
-  
+   → Le mérite passé donne le pouvoir. Problème : les anciens sont parfois écoutés *même quand ils ne font plus rien*, au détriment des nouveaux actifs.  
+   ⚠️ Attention à l’effet « caste ».
+
 3. **La démocratie** 🗳️  
-  → Pouvoir tournant, basé sur des élections. Plus juste, mais plus complexe à organiser.
-  
+   → Pouvoir tournant, basé sur des élections. Plus juste, mais plus complexe à organiser.
+
 4. **La do-ocratie** 🛠️  
-  → Ceux qui font ont raison. Souple, mais parfois floue. Le consensus est parfois trop… mou.
-  
+   → Ceux qui font ont raison. Souple, mais parfois floue. Le consensus est parfois trop… mou.
 
 💡 Besoin d’aide pour choisir ?  
 Regardez du côté de :
 
-- [Minimum Viable Governance](https://github.com/hyphacoop/handbook/blob/main/docs/Governance.md) (une base minimaliste)
-  
-- [Governing Open Source Projects](https://github.com/oss-wg/governance) (plein de pistes à explorer)
-  
+- [Minimum Viable Governance](https://github.com/github/MVG) (une base minimaliste)
+
+- [Governing Open Source Projects](https://governingopen.com/) (plein de pistes à explorer)
+
+Chez nous, dans la Coopérative Code Commun, on aime [les budgets contributifs](https://movilab.org/wiki/Coremuneration_et_budget_contributif) et la prise de [décision par consentement.](https://movilab.org/wiki/Consentement_contre_consensus) Si vous voulez, on vous en parle avec plaisir !
 
 ---
 
@@ -339,15 +334,14 @@ Le **jour où une personne toxique arrive**, vous serez bien content d’avoir u
 🧠 Un bon cadre social, c’est :
 
 - De la bienveillance dès le départ ;
-  
+
 - Une régulation douce des abus ;
-  
+
 - Un support communautaire de qualité ;
-  
+
 - Une gouvernance claire, souple et adaptée ;
-  
+
 - Un code de conduite explicite, pour éviter les dérapages.
-  
 
 💬 Vous avez du code ? Très bien.  
 Mais si vous avez aussi **une communauté qui se sent bien**, alors vous avez **un projet qui peut durer**. 🌟
@@ -364,17 +358,16 @@ Même le plus beau des projets open source a besoin de **ressources**, humaines 
 
 ### 💰 Le Libre, ça coûte combien ?
 
-Prenons un exemple concret : le projet **TiBillet**.
+Prenons un exemple concret : le projet **Orekit**.
 
 - **42 années-homme** de développement pour CS Group 👷‍♂️ ;
-  
+
 - **2 550 € par an** pour les serveurs, la CI, les outils en ligne 🖥️ ;
-  
+
 - Les **Orekit Days** ? Chaque édition coûte plusieurs **dizaines de milliers d’euros** 🎤 ;
-  
+
 - Les **plateformes SaaS** ? C’est *gratuit… jusqu’à ce que ça explose* 🚀.  
   Et là, ça peut devenir très très cher.
-  
 
 👉 Bref, derrière chaque commit, chaque réponse sur un forum, chaque release… il y a du **travail**, du **temps**, des **infrastructures**, et donc un **coût**.
 
@@ -385,13 +378,12 @@ Prenons un exemple concret : le projet **TiBillet**.
 Tout n’est pas qu’une question d’euros 💶. On peut aussi **contribuer autrement** :
 
 - 🏢 En mettant à disposition une salle pour un événement ;
-  
+
 - 🧑‍🏫 En organisant un atelier ou une présentation de l'outil à son réseau ;
-  
+
 - 🧑‍💻 En offrant des heures de développement ou de maintenance ;
-  
+
 - ⚙️ En prêtant des machines, de la bande passante, de l’énergie.
-  
 
 Ce genre de **mécénat en nature** est précieux — et souvent sous-estimé.
 
@@ -405,9 +397,8 @@ C’est ce que nous expérimentons dans notre coopérative.
 📚 Pour creuser, deux ressources clés :
 
 - 🧾 Le [wiki de la co-rémunération sur Movilab](https://movilab.org/wiki/Coremuneration) ;
-  
+
 - 🧭 Le [processus participatif de TiBillet sur Framavox](https://framavox.org/d/XbPF0qAI/processus-de-cor-mun-ration-r-gles-de-budget-contributif).
-  
 
 💡 Le principe ?  
 On définit collectivement un **budget contributif**.  
@@ -432,15 +423,14 @@ Mais sans **financement**, tout ça s’essouffle…
 ## 🧭 En résumé : construire un projet libre, c’est…
 
 1. **Choisir une licence libre** ⚖️
-  
+
 2. **Ouvrir le code, les pratiques et les intentions** 🔓
-  
+
 3. **Partager les décisions avec une gouvernance claire** 🏛️
-  
+
 4. **Accueillir les humains avec bienveillance** 🫂
-  
+
 5. **Organiser les moyens humains et financiers** 💰
-  
 
 ---
 
