@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[4729],{5411:e=>{e.exports=JSON.parse('{"label":"europe creative","permalink":"/docs/tags/europe-creative","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Equipe/Axel","title":"Axel CHABRAN","description":"Coordinateur de projet.","permalink":"/docs/Equipe/Axel"}]}')}}]);

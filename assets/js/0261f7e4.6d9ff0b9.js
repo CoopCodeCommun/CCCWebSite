@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[1396],{1848:e=>{e.exports=JSON.parse('{"label":"coop\xe9rative","permalink":"/docs/tags/cooperative","allTagsPath":"/docs/tags","count":1,"items":[{"id":"charte","title":"Charte et valeurs","description":"Les engagements et valeurs de la coop\xe9rative.","permalink":"/docs/charte"}]}')}}]);

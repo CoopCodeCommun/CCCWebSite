@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[1222],{7183:e=>{e.exports=JSON.parse('{"label":"sciences cognitives","permalink":"/docs/tags/sciences-cognitives","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Equipe/Axel","title":"Axel CHABRAN","description":"Coordinateur de projet.","permalink":"/docs/Equipe/Axel"}]}')}}]);
