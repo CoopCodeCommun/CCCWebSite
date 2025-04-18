@@ -39,7 +39,7 @@ La coopérative repose sur plusieurs pilliers :
 - Inclusivité : Toutes et tous peuvent rejoindre la coopérative. Nous ne choisissons pas nos collègues ; c'est vous qui
   décidez de nous rejoindre et des missions que vous voulez réaliser.
 
-### Lucrativité limitée : On ne rémunère le travail, pas le capital.
+### Lucrativité limitée : On rémunère le travail, pas le capital.
 
 - 100% des bénéfices sont ré-investi en reserve pour financer les contributeur.ice.s aux projets de la coopérative.
 - Transparence et budgets contributifs : Chacun est rémunéré.e en fonction de ce qu'iel estime juste et en toute
