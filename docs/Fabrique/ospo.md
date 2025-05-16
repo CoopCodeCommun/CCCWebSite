@@ -11,9 +11,17 @@ image: /img/CCC-charte-social-card.jpg
 
 OSPO, ça veut dire en anglais : *Open source program office*. 🧑‍🔧 C'est une équipe qui prend soin d'une ressource et qui est attentif à ce que tout le monde puisse s'en servir librement.
 
-Ici, nous allons emprunter et synthétiser une partie du verbe de Sébastien Dinot dans sa conférence : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 🧠 Merci beaucoup à lui !
+Nous ne voyons loin que sur les épaules des géants, allons emprunter et synthétiser une partie du verbe de :
 
-Le but de la coopérative Code Commun est d'essayer d'emprunter cette direction. Le chemin est long, mais la voie est libre ! 💪
+- Sébastien Dinot dans sa conférence : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 
+
+- Matti Schneider dans son Livre Blanc : [Construire des communs numériques](https://communs.mattischneider.fr/) 
+
+- Valérie Peugeot, dans presque toute ses interventions, foncez sur [Libre à lire]([Action publique et communs - Valérie Peugeot - Libre à lire !](https://www.librealire.org/action-publique-et-communs-valerie-peugeot)) pour les découvrir :)
+
+Merci beaucoup à elle.ux !
+
+Un des but de la coopérative Code Commun est d'essayer d'emprunter cette direction. Le chemin est long, mais la voie est libre ! 💪
 
 ---
 
@@ -136,7 +144,7 @@ Choisir une licence n’est pas sorcier, mais ce n’est pas anodin :
   
   - [TLDRLegal](https://tldrlegal.com/)
   
-  - OpenSource.org
+  - [OpenSource.org](https://opensource.org/)
 
 - **N’écrivez jamais votre propre licence !**
   
@@ -241,10 +249,10 @@ Même si c’est le troisième débutant de la semaine, tant qu’il n’abuse p
 
 ### 🧘 Gérer les abus… en douceur
 
-Dans la communauté **Orekit**, une petite pratique s’est installée naturellement :  
+Sébastien Dinot raconte que dans la communauté **Orekit**, une petite pratique s’est installée naturellement :  
 Quand quelqu’un **en demande trop**, qu’il **attend qu’on code à sa place**, les réponses… mettent un peu plus de temps à arriver ⏳.
 
-Pas de conflit, pas de recadrage public. Juste un petit signal : « Bouge-toi un peu ».  
+Évitez les conflits et les recadrage public. Juste un petit signal : « Bouge-toi un peu ».  
 💡 Et ça marche. Les gens font plus d’efforts, reviennent avec de meilleures questions.  
 ✅ Résultat : on **évite les tensions** et on **préserve l’ambiance générale**.
 
@@ -252,11 +260,7 @@ Pas de conflit, pas de recadrage public. Juste un petit signal : « Bouge-toi un
 
 ### 🧑‍🔧 Un bon support vaut de l’or
 
-Quand **Airbus Defence and Space** a annoncé publiquement qu’ils utilisaient Orekit, ils ont souligné un point étonnant :
-
-> “Le support communautaire est meilleur que celui d’éditeurs propriétaires qu’on paie très cher.”
-
-💥 Boom. Voilà ce qu’une communauté engagée et disponible peut offrir.  
+Une communauté engagée et disponible peut offrir un meilleur support que beaucoup de SAV traditionnels.  
 Un bon support, c’est de **l’accueil**, de **l’échange**, de **la confiance**. Et ça attire de nouveaux contributeurs.
 
 ---
@@ -279,14 +283,7 @@ Pas de communauté pérenne sans **règles du jeu** claires. C’est là qu’in
 
 - Créer de la **confiance** ;
 
-- Permettre à chacun de **s’engager en conscience**.
-
-🛑 Attention cependant : ne sacralisez pas tout.  
-Exemple : Orekit mentionne encore les *patchs par mail* dans sa gouvernance… alors que plus personne ne fait ça depuis longtemps.  
-Moralité : ne mettez que ce qui doit vraiment être gravé dans le marbre.  
-📝 Le reste (guide de contribution, workflows…) doit rester souple et évolutif.
-
----
+- Permettre à chacun de **s’engager en conscience**---
 
 ### 🏛️ Quel modèle de gouvernance choisir ?
 
@@ -346,6 +343,8 @@ Le **jour où une personne toxique arrive**, vous serez bien content d’avoir u
 💬 Vous avez du code ? Très bien.  
 Mais si vous avez aussi **une communauté qui se sent bien**, alors vous avez **un projet qui peut durer**. 🌟
 
+---
+
 ## 💸 Étape 5 : Penser le **financement** dès le départ
 
 Oui, votre projet est **libre**.  
@@ -354,20 +353,15 @@ Et encore moins **auto-suffisant par magie** 🧙‍♂️.
 
 Même le plus beau des projets open source a besoin de **ressources**, humaines **et** financières.
 
----
-
 ### 💰 Le Libre, ça coûte combien ?
 
-Prenons un exemple concret : le projet **Orekit**.
+Prenons un exemple concret : le projet **TiBillet**.
 
-- **42 années-homme** de développement pour CS Group 👷‍♂️ ;
+- **30 années équivalent temps plein** de développement depuis sa création en 2010 
 
-- **2 550 € par an** pour les serveurs, la CI, les outils en ligne 🖥️ ;
+- **3 000 € par an** pour les serveurs de prod, test et démonstration, pour la CI, les outils en ligne 🖥️ ;
 
-- Les **Orekit Days** ? Chaque édition coûte plusieurs **dizaines de milliers d’euros** 🎤 ;
-
-- Les **plateformes SaaS** ? C’est *gratuit… jusqu’à ce que ça explose* 🚀.  
-  Et là, ça peut devenir très très cher.
+- Les déplacements dans les lieux et les salons, la rédaction de contrats de travail, de fiche de paye, etc...
 
 👉 Bref, derrière chaque commit, chaque réponse sur un forum, chaque release… il y a du **travail**, du **temps**, des **infrastructures**, et donc un **coût**.
 
@@ -401,6 +395,8 @@ C’est ce que nous expérimentons dans notre coopérative.
 - 🧭 Le [processus participatif de TiBillet sur Framavox](https://framavox.org/d/XbPF0qAI/processus-de-cor-mun-ration-r-gles-de-budget-contributif).
 
 💡 Le principe ?  
+
+
 On définit collectivement un **budget contributif**.  
 Ensuite, chaque personne décrit sa contribution (code, animation, documentation, support, etc.)  
 Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans marchandiser le temps.
@@ -416,27 +412,9 @@ Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans m
 ✅ La communauté est vivante,  
 ✅ La gouvernance est claire,  
 ✅ Le cadre légal est posé,  
-Mais sans **financement**, tout ça s’essouffle…
 
----
 
-## 🧭 En résumé : construire un projet libre, c’est…
-
-1. **Choisir une licence libre** ⚖️
-
-2. **Ouvrir le code, les pratiques et les intentions** 🔓
-
-3. **Partager les décisions avec une gouvernance claire** 🏛️
-
-4. **Accueillir les humains avec bienveillance** 🫂
-
-5. **Organiser les moyens humains et financiers** 💰
-
----
 
 Avec ça, vous ne lancez pas juste un dépôt Git.  
-🚀 Vous créez **un commun numérique durable**.
 
 Et ça… c’est précieux ❤️
-
----
