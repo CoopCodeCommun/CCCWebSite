@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da4f193c-a31c-44b4-b0df-f593d9f3777b" name="Changes" comment="add img">
+      <change beforePath="$PROJECT_DIR$/docs/Fabrique/communs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Fabrique/communs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Fabrique/ospo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Fabrique/ospo.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vZd9NEzjQZfS0M1KqgedL3MdEH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/jonas/Gits/CCCWebSite/docs/Fabrique",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "yarn:package.json:typescript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Fabrique" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Fabrique" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da4f193c-a31c-44b4-b0df-f593d9f3777b" name="Changes" comment="" />
+      <created>1744356377545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744356377545</updated>
+      <workItem from="1744356378633" duration="2041000" />
+      <workItem from="1744366458553" duration="4659000" />
+      <workItem from="1744393883710" duration="594000" />
+      <workItem from="1744394905794" duration="110000" />
+      <workItem from="1744395026516" duration="274000" />
+      <workItem from="1744442132305" duration="944000" />
+      <workItem from="1744960310792" duration="320000" />
+      <workItem from="1746422184611" duration="3000" />
+      <workItem from="1747415579148" duration="1142000" />
+      <workItem from="1763614081151" duration="18000" />
+    </task>
+    <task id="LOCAL-00001" summary="add presentation">
+      <option name="closed" value="true" />
+      <created>1744373556166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744373556166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove bonhomme, add partenaire">
+      <option name="closed" value="true" />
+      <created>1744374526021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744374526021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove bonhomme, add partenaire">
+      <option name="closed" value="true" />
+      <created>1744374547366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744374547366</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add img">
+      <option name="closed" value="true" />
+      <created>1744960347983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744960347983</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add presentation" />
+    <MESSAGE value="remove bonhomme, add partenaire" />
+    <MESSAGE value="add img" />
+    <option name="LAST_COMMIT_MESSAGE" value="add img" />
+  </component>
+</project>

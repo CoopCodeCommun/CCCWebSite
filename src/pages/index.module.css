@@ -116,6 +116,7 @@ html[data-theme='dark'] .topBannerTitleText {
 .topBannerDescription {
   font-size: 20px;
 }
+
 @media only screen and (max-width: 768px) {
   .topBannerDescription {
     font-size: 16px;
@@ -237,18 +238,18 @@ html[data-theme='dark'] .topBannerTitleText {
   }
 }
 
-.tweetsSection > :global(.col) > * {
+.tweetsSection> :global(.col)>* {
   margin-bottom: 2rem;
 }
 
 @media (max-width: 996px) {
-  .tweetsSection > :global(.col:last-child) > *:last-child {
+  .tweetsSection> :global(.col:last-child)>*:last-child {
     margin-bottom: 0;
   }
 }
 
 @media (min-width: 997px) {
-  .tweetsSection > :global(.col) > *:last-child {
+  .tweetsSection> :global(.col)>*:last-child {
     margin-bottom: 0;
   }
 }
@@ -256,4 +257,48 @@ html[data-theme='dark'] .topBannerTitleText {
 /* Used to test CSS insertion order */
 .test-marker-site-index-page {
   content: 'site-index-page';
+}
+
+/* New Hero Styles */
+.heroHeader {
+  position: relative;
+  /* Height is determined by the carousel, but we ensure content sits on top */
+}
+
+.heroContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  z-index: 10;
+  width: 90%;
+  max-width: 800px;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.heroDescription {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 2.5rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.heroButtons {
+  display: flex;
+  justify-content: center;
 }
