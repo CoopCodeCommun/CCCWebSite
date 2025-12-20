@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2415],{4400:e=>{e.exports=JSON.parse('{"label":"MinistereCulture","permalink":"/blog/tags/ministere-culture","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[3306],{5120:e=>{e.exports=JSON.parse('{"label":"\xe9conomie sociale et solidaire","permalink":"/blog/tags/economie-sociale-et-solidaire","allTagsPath":"/blog/tags","count":6}')}}]);

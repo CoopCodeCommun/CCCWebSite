@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[7170],{5181:s=>{s.exports=JSON.parse('{"label":"administration systeme","permalink":"/blog/tags/administration-systeme","allTagsPath":"/blog/tags","count":2}')}}]);

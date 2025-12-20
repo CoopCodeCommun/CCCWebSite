@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[6045],{2672:e=>{e.exports=JSON.parse('{"label":"hypermedia","permalink":"/blog/tags/hypermedia","allTagsPath":"/blog/tags","count":1}')}}]);

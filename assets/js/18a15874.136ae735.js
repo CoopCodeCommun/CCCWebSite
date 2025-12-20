@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[3268],{2095:s=>{s.exports=JSON.parse('{"label":"communs digitaux","permalink":"/blog/tags/communs-digitaux","allTagsPath":"/blog/tags","count":1}')}}]);

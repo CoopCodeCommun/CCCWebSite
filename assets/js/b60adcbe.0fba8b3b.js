@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[5466],{4780:e=>{e.exports=JSON.parse('{"label":"crowsec","permalink":"/blog/tags/crowsec","allTagsPath":"/blog/tags","count":2}')}}]);

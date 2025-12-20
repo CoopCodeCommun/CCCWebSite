@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[1388],{2822:e=>{e.exports=JSON.parse('{"label":"openwallet","permalink":"/blog/tags/openwallet","allTagsPath":"/blog/tags","count":6}')}}]);

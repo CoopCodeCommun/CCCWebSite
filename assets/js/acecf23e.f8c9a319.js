@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcc_cwebsite=globalThis.webpackChunkcc_cwebsite||[]).push([[1903],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Code Commun, le blog.","authorsListPath":"/blog/authors"}')}}]);

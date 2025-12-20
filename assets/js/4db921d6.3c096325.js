@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[153],{7151:e=>{e.exports=JSON.parse('{"label":"SGInvestissement","permalink":"/blog/tags/sg-investissement","allTagsPath":"/blog/tags","count":1}')}}]);

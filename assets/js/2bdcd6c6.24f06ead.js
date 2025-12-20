@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcc_cwebsite=self.webpackChunkcc_cwebsite||[]).push([[2377],{4970:e=>{e.exports=JSON.parse('{"label":"France2030","permalink":"/blog/tags/france-2030","allTagsPath":"/blog/tags","count":1}')}}]);

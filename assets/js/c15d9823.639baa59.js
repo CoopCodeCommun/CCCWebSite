@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcc_cwebsite=globalThis.webpackChunkcc_cwebsite||[]).push([[8146],{9328(e){e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":19,"totalPages":1,"totalCount":19,"blogDescription":"Les recettes de la coop\xe9rative pour de chouettes communs num\xe9riques.","blogTitle":"Code Commun, le blog."}}')}}]);
