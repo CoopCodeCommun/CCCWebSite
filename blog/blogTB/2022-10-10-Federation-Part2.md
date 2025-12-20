@@ -18,6 +18,8 @@ a été complètement repensée.
 
 ![/img/federons/06-blockcentral.png](/img/federons/06-blockcentral.png)
 
+<!-- truncate -->
+
 ## Première étape : L'agenda fédéré.
 
 En avant avec Django ! Le framework web en Python est déja utilisé coté cashless,

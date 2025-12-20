@@ -10,6 +10,8 @@ description: Fédérons TiBillet, cinquième partie. Open wallet, blockchain, é
 
 ![/img/federons/fedow_logo.jpg](/img/federons/fedow_logo.jpg)
 
+<!-- truncate -->
+
 # TiBillet/FEDOW : **FED**erated and **O**pen **W**allet.
 
 ## C'est quoi FEDOW ?

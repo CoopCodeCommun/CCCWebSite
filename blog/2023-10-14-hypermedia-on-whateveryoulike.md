@@ -19,6 +19,8 @@ vos goûts techniques.
 
 ![/img/blog/hypermedia/whowillwin.png](/img/blog/hypermedia/whowillwin.png)
 
+<!-- truncate -->
+
 ## Préalable.
 
 Nous souhaitons à travers ce blog partager des articles, des tips, des philosophies ou des idées qui ont un rapport de

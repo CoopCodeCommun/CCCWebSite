@@ -21,6 +21,8 @@ second article qui aborde des notions avancées, et contiendra quelques bonus.
 
 On continue de ressusiter les articles de Sam et Max tout en se formant ? C'est parti !
 
+<!-- truncate -->
+
 ## La boucle for
 
 Disclaimer: pour comprendre ce petit gros article, il faut être à l’aise avec la boucle for et les listes.

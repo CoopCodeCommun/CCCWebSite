@@ -4,6 +4,7 @@ title: Référentiels de formations Linux
 description: Formations dispensé par la coopérative finançable par votre CPF/OPCO/Entreprise
 sidebar_position: 1
 tags: [ linux, ubuntu, debian, dev, formations ]
+keywords: [ linux, ubuntu, debian, dev, formations ]
 image: /img/Graphical_codecommun270.png
 ---
 

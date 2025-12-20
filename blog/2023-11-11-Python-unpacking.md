@@ -28,6 +28,8 @@ Cela permet d’augmenter drastiquement la lisibilité des programmes. Et chez C
 
 ![/img/blog/python-unboxing.jpg](/img/blog/python-unboxing.jpg)
 
+<!-- truncate -->
+
 ## Le principe de base
 
 Normalement, si vous voulez mettre le contenu d’un tuple dans des variables, vous devez procéder ainsi :

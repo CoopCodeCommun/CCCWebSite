@@ -1,9 +1,7 @@
 ---
 slug: annonce-aap
 title: TiBillet Lauréat de l'Appel à Projets « Solutions de Billetteries Innovantes » !
-authors:
-  - name : axel
-    title: Administrateur
+authors: [axel]
 keywords: [ aap, billetteries, tibillet, innovante, appel à projet,France2030, ministère de la culture, Caisse des Dépôts, Banque des Territoires, gouvernement ]
 tags: [ BanqueDesTerritoires, SGInvestissement, MinistereCulture, France2030, tibillet, ]
 image: /img/blog/FR2030_Endossement_RVB_V.jpg
@@ -18,6 +16,8 @@ draft: false
 
 Nous sommes très heureux de vous annoncer que TiBillet a été sélectionné comme l'un des lauréats de l'appel à projets «Solutions de billetteries innovantes» dans le cadre du volet culture du plan France 2030. Cet appel à projets avait pour objectif de donner aux institutions culturelles une meilleure maîtrise des données produites par leurs activités 
 et de favoriser l’interopérabilité, la standardisation des données et la mutualisation des services de billetterie.
+
+<!-- truncate -->
 
 # Un Projet pour une Culture Partagée et Inclusive
 

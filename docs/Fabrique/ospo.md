@@ -396,7 +396,6 @@ C’est ce que nous expérimentons dans notre coopérative.
 
 💡 Le principe ?  
 
-
 On définit collectivement un **budget contributif**.  
 Ensuite, chaque personne décrit sa contribution (code, animation, documentation, support, etc.)  
 Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans marchandiser le temps.
@@ -412,8 +411,6 @@ Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans m
 ✅ La communauté est vivante,  
 ✅ La gouvernance est claire,  
 ✅ Le cadre légal est posé,  
-
-
 
 Avec ça, vous ne lancez pas juste un dépôt Git.  
 

@@ -15,6 +15,8 @@ image: /img/blog/anar-libre.png
 
 ![https://framablog.org/wp-content/uploads/2023/10/hacker-bibel-ccc-p15.png](/img/blog/anar-libre.png)
 
+<!-- truncate -->
+
 > Le logiciel libre n’est pas exempt de causer [un] effet de domination ne serait-ce parce que les rapports aux
 > technologies sont rarement équilibrés. On a beau postuler l’horizontalité entre concepteur et utilisateur, ce dernier
 > sera toujours dépendant, au moins sur le plan cognitif. Dans une économie contributive idéale du Libre, concepteurs et

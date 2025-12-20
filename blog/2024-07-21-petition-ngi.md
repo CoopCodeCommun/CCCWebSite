@@ -30,6 +30,8 @@ Cluster 4.
 
 ![/img/blog/NGI_nextgenerationinternet.jpg](/img/blog/NGI_nextgenerationinternet.jpg)
 
+<!-- truncate -->
+
 Les programmes NGI ont démontré leur force et leur importance dans le soutien à l’infrastructure logicielle européenne,
 formant un instrument générique de financement des communs numériques qui doivent être rendus accessibles dans la durée.
 Nous sommes dans l’incompréhension face à cette transformation, d’autant plus que le fonctionnement de NGI est efficace

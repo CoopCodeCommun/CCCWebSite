@@ -11,6 +11,8 @@ draft: False
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
 
+<!-- truncate -->
+
 Nous allons détailler ici la préparation d'un serveur sous distribution Debian (ou Ubuntu) pour acceuillir toutes nos
 solutions libres que nous proposons dans la coopérative.
 

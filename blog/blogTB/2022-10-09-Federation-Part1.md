@@ -17,6 +17,8 @@ Avec le collectif **La Réunion des Tiers Lieux** (RTL) se lance un grand chanti
 communs. Nous détaillons ici une partie, celle de la construction et la decentralisation d'un  
 agenda et d'un portefeuille cashless partagé à tout un territoire.
 
+<!-- truncate -->
+
 ## Introduction
 
 Aujourd'hui, lorsque l'on veut organiser

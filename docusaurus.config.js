@@ -1,15 +1,16 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes } = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "Coopérative Code Commun",
     tagline: "Fabrique de communs numériques",
     favicon: 'img/CCClogo_node_color.svg',
-    scripts: [{src: 'https://plausible.codecommun.co/js/script.js', defer: true, 'data-domain': 'codecommun.coop'}],
+    scripts: [{ src: 'https://plausible.codecommun.co/js/script.js', defer: true, 'data-domain': 'codecommun.coop' }],
 
     // Set the production url of your site here
     url: 'https://codecommun.coop/',
@@ -23,7 +24,7 @@ const config = {
     projectName: 'CCCWebSite', // Usually your repo name.
 
     onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
@@ -63,7 +64,7 @@ const config = {
     ],
 
     themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+        /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
             image: 'img/Graphical_codecommun270.png',
@@ -91,11 +92,11 @@ const config = {
                     //     label: 'Créations',
                     // },
                     // {to: '/docs/charte', label: 'Fabrique', position: 'left'},
-                    {to: '/docs/category/la-fabrique-à-commun', label: 'Présentation', position: 'left'},
-                    {to: '/docs/category/créations', label: 'Créations', position: 'left'},
-                    {to: '/docs/category/services', label: 'Services', position: 'left'},
-                    {to: '/docs/category/formations', label: 'Formations', position: 'left'},
-                    {to: '/blog', label: 'Recettes & blog', position: 'left'},
+                    { to: '/docs/category/la-fabrique-à-commun', label: 'Présentation', position: 'left' },
+                    { to: '/docs/category/créations', label: 'Créations', position: 'left' },
+                    { to: '/docs/category/services', label: 'Services', position: 'left' },
+                    { to: '/docs/category/formations', label: 'Formations', position: 'left' },
+                    { to: '/blog', label: 'Recettes & blog', position: 'left' },
                     {
                         href: 'https://github.com/CoopCodeCommun/',
                         label: 'GitHub',

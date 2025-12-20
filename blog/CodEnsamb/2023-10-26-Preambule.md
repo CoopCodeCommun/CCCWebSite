@@ -23,6 +23,8 @@ L'idée : Recoder tout le projet LaBoutik (Caisse enregistreuse, cashless, monna
 
 Le but avoué est d'encourager les contributions aux projets de la coopérative, de réduire le flou technologique, de vulgariser le code, mais surtout de s'engager dans une démarche de partage de savoir.
 
+<!-- truncate -->
+
 ## Koi fé ? (TLDR;)
 
 Dans ce tuto, nous allons voir comment : 

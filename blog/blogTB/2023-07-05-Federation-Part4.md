@@ -10,6 +10,8 @@ description: Fédérons TiBillet, quatrième partie, parlons Design.
 
 ![/img/federons/design_head.jpg](/img/federons/design_head.jpg)
 
+<!-- truncate -->
+
 ## Design Billetterie
 
 TiBillet est construit sur un modèle de SaaS (Software as a service) : Un serveur peut héberger plusieurs instances de

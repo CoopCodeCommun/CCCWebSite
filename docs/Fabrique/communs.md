@@ -4,6 +4,7 @@ title: Des communs ?
 description: C'est quoi déja, un commun ?
 sidebar_position: 1
 tags: [ licence libre, coopérative, économie sociale et solidaire, commun numérique]
+keywords: [ licence libre, coopérative, économie sociale et solidaire, commun numérique]
 image: /img/CCC-charte-social-card.jpg
 ---
 
@@ -73,11 +74,12 @@ C’est grâce à ces règles qu’on peut dire : ici, pas de chef autoritaire, 
 
 ---
 
-Pour en savoir plus, nous vous conseillons les articles suivants dont est tiré cette définition :
+Pour en savoir plus, nous vous conseillons les documents suivants dont est tiré cette définition :
 
 - [Action publique et communs - Valérie Peugeot ](https://www.librealire.org/action-publique-et-communs-valerie-peugeot)
 - [« C comme communs » avec la chercheuse Valérie Peugeot ](https://www.librealire.org/c-comme-communs-avec-la-chercheuse-valerie-peugeot)
 - [Communs de la connaissance, communs numériques et éducation populaire : un jeu à somme positive ](https://www.librealire.org/communs-de-la-connaissance-communs-numeriques-et-education-populaire-un-jeu-a-somme-positive)
+- Matti Schneider dans son Livre Blanc : [Construire des communs numériques](https://communs.mattischneider.fr/)
 
 ---
 
@@ -118,6 +120,5 @@ On veut que les usages grandissent, s’adaptent, essaiment. On veut que les res
 - Une méthode inspirée d’Ostrom, Peugeot et d’expériences très concrètes 🧑‍🌾💻
 
 💬 Envie d’en parler ou de contribuer ? Rejoins la discussion sur [Matrix](https://matrix.to/#/#tibillet:tiers-lieux.org), [Discord](https://discord.gg/7FJvtYx) ou  [Framavox]([Code Commun &amp; TiBillet](https://framavox.org/code-commun-tibillet/))  
-
 
 ---

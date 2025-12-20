@@ -17,6 +17,8 @@ N'y voyez pas forcément une adhésion à chaque parti pris (Il y a par exemple 
 cryptoactifs...),
 mais je ne doute pas que vous saurez deviner de quel bord nous penchons.
 
+<!-- truncate -->
+
 ## Fédérations
 
 ### Fediverse

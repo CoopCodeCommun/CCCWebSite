@@ -4,6 +4,7 @@ title: IA, machine learning, data science, nos sujets préférés
 description: Formations, recettes, compilation de note de blog. Apprennez Python !
 sidebar_position: 1
 tags: [ python, dev, formations ]
+keywords: [ python, dev, formations ]
 image: /img/Graphical_codecommun270.png
 ---
 

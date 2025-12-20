@@ -15,6 +15,8 @@ Extrait de https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternat
 Louis Derrac, Michael Kwet.
 ```
 
+<!-- truncate -->
+
 ## L’accord sur les Technologies Numériques
 
 Les grandes entreprises technologiques, la propriété intellectuelle et la propriété privée des moyens de calcul sont

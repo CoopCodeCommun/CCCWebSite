@@ -10,6 +10,8 @@ description: Fédérons TiBillet, troisième partie.
 
 ![/img/federons/04-start_fede_notitle.png](/img/federons/04-start_fede_notitle.png)
 
+<!-- truncate -->
+
 ## Historique et origine
 
 A l'origine du projet TiBillet, il y a le Manapany Festival et l'association organisatrice : Les 3Peaks.

@@ -4,6 +4,7 @@ title: Liens Linux
 description: Reprenez le pouvoir sur votre ordinateur, liberez du temps de cerveau disponible pour la chose la plus enthousiasmante de nos métiers ; la création !
 sidebar_position: 2
 tags: [ linux, Administration, système, dev, formations ]
+keywords: [ linux, Administration, système, dev, formations ]
 image: /img/Graphical_codecommun270.png
 ---
 

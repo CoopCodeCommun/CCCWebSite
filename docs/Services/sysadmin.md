@@ -3,6 +3,7 @@ slug: hebergement
 title: On aime, on installe pour vous !
 description: Services d'administration de systèmes et logiciel libres et coopératifs.
 tags: [ tibillet, nextcloud, inline, matermost ]
+keywords: [ tibillet, nextcloud, inline, matermost ]
 sidebar_position: 2
 image: /img/Graphical_codecommun270.png
 ---
