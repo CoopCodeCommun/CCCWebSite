@@ -2,14 +2,14 @@
 slug: ospo
 title: Le programme
 description: Code commun, c'est Un OSPO. Ça veut dire quoi Open source program office ?
-sidebar_position: 2
+sidebar_position: 3
 tags: [ licence libre, coopérative, économie sociale et solidaire, commun numérique]
 image: /img/CCC-charte-social-card.jpg
 ---
 
-# :rocket: Le programme : on monte un OSPO !
+# :rocket: Ça fait quoi un OSPO ?
 
-OSPO, ça veut dire en anglais : *Open source program office*. 🧑‍🔧 C'est une équipe qui prend soin d'une ressource et qui est attentif à ce que tout le monde puisse s'en servir librement.
+> OSPO pour Open Source Program Office, ou comment faire un projet open source réussi ?
 
 Nous ne voyons loin que sur les épaules des géants, allons emprunter et synthétiser une partie du verbe de :
 
@@ -17,33 +17,34 @@ Nous ne voyons loin que sur les épaules des géants, allons emprunter et synth�
 
 - Matti Schneider dans son Livre Blanc : [Construire des communs numériques](https://communs.mattischneider.fr/) 
 
-- Valérie Peugeot, dans presque toute ses interventions, foncez sur [Libre à lire]([Action publique et communs - Valérie Peugeot - Libre à lire !](https://www.librealire.org/action-publique-et-communs-valerie-peugeot)) pour les découvrir :)
+Merci beaucoup à eux !
 
-Merci beaucoup à elle.ux !
+Nous publions ici un résumé en mode pense-bête. J'avoue prendre du plaisir à le relire régulièrement et parfois à le modifier suivant nos expériences.
 
-Un des but de la coopérative Code Commun est d'essayer d'emprunter cette direction. Le chemin est long, mais la voie est libre ! 💪
+La coopérative Code Commun emprunte cette direction. Le chemin est long, mais la voie est libre ! 💪
 
 ---
 
 ## 🔍 Étape 1 – Construire sur les besoins
 
-Autrement dit : Comprendre les attentes des utilisateurs et des contributeurs
+Autrement dit : comprendre les attentes des utilisateurs et des contributeurs, récolter des informations sur le terrain, construire main dans la main avec les utilisateur·ices.
+
 Avant de vouloir attirer le monde vers votre projet, demandez-vous : **"Pourquoi viendraient-ils ?"**  
 Spoiler : ce ne sera jamais « pour vos beaux yeux », mais parce que **le projet répond à un besoin réel**, et qu’il est **accessible et agréable à utiliser ou à contribuer**.
 
-#### 👥 Côté utilisateurs : proposez un outil utile, utilisable et utilisé
+#### Côté utilisateurs : proposez un outil utile, utilisable et utilisé
 
-Un utilisateur potentiel a des attentes simples, mais non négociables :
+Comment passer de l'usage à la contribution ? 
 
-- ✅ **Que le logiciel réponde à un vrai besoin**, pas seulement au vôtre. Pensez comme vos utilisateurs : ce qu’ils attendent peut être très différent de vos propres cas d’usage.
+- **Le logiciel doit répondre à un besoin**, et non pas à une idée, même révolutionnaire :D
 
-- ✅ **Qu’il soit simple à mettre en œuvre.** Si l’installation prend 3 heures et qu'il est mal documenté, vous perdez tout le monde en chemin.
+- **Faites qu’il soit simple à mettre en œuvre.** Si l’installation prend 3 heures et qu'il est mal documenté, vous perdez tout le monde en chemin.
 
-- ✅ **Qu’il soit ergonomique, robuste et fiable.** Ce sont les bases d’un logiciel professionnel utilisable en production.
+- **Qu’il soit ergonomique, robuste et fiable.** Ce sont les bases d’un logiciel professionnel utilisable en production.
 
-- ✅ **Qu’il y ait une vraie documentation.** Ne répondez jamais : *« Lis le code, tu comprendras. »* Un projet non documenté, c’est un projet inutilisable, donc mort.
+- **Qu’il y ait une vraie documentation.** Ne répondez jamais : *« Lis le code, tu comprendras. »* Un projet non documenté, c’est un projet inutilisable, donc mort.
 
-- ✅ **Qu’un espace d’échange soit disponible.** Forum, canal Matrix, mailing-list, GitHub Discussions… Ce n’est pas du support client, c’est de la communauté vivante.
+- **Qu’un espace d’échange soit disponible.** Forum, canal Matrix, mailing-list, GitHub Discussions… Ce n’est pas du support client, c’est de la communauté vivante.
 
 > 📌 **Votre outil peut être modeste, mais il doit être clair, documenté et facile à découvrir.**
 
@@ -53,15 +54,15 @@ Un utilisateur potentiel a des attentes simples, mais non négociables :
 
 Un contributeur ne demande pas l’impossible. Il veut pouvoir :
 
-- ✅ **Accéder au dépôt en continu.** Oubliez le “libre en interne” où l’on publie un `.tar.gz` tous les six mois. Un projet vivant est un projet avec un dépôt public, actif, accessible en permanence.
+- **Accéder au dépôt en continu.** Oubliez le “libre en interne” où l’on publie un `.tar.gz` tous les six mois. Un projet vivant est un projet avec un dépôt public, actif, accessible en permanence.
 
-- ✅ **Lire une documentation technique claire.** Les contributeurs ne sont pas devins. Expliquez l’architecture, les principes, les processus de contribution.
+- **Lire une documentation technique claire.** Les contributeurs ne sont pas devins. Expliquez l’architecture, les principes, les processus de contribution.
 
-- ✅ **Utiliser des outils de collaboration modernes.** Git, CI/CD, système d’issues clair, etc. Montrez que vous accueillez les contributions avec soin.
+- **Utiliser des outils de collaboration modernes.** Git, CI/CD, système d’issues clair, etc. Montrez que vous accueillez les contributions avec soin.
 
-- ✅ **Trouver du code propre et bien conçu.** Personne ne veut déboguer un plat de spaghettis.
+- **Trouver du code propre et bien conçu.** Personne ne veut déboguer un plat de spaghettis.
 
-- ✅ **Se sentir en confiance.** Transparence, bienveillance, communication ouverte : voilà les vraies bases d’un collectif contributif.
+- **Se sentir en confiance.** Transparence, bienveillance, communication ouverte : voilà les vraies bases d’un collectif contributif.
 
 > 💡 **Demandez-vous toujours : dans ce projet, est-ce que *vous-même* auriez envie de contribuer ?**
 
@@ -83,21 +84,21 @@ L’un des piliers pour faire vivre un projet open source, c’est **la visibili
 
 #### 🎯 Objectif : rendre votre projet identifiable et vivant
 
-**✅ Créez un site vitrine.**  
+**Créez un site vitrine.**  
 Un point d’ancrage incontournable pour tout projet. Il permet de centraliser l’information et de servir de référence officielle (présentation du projet, liens vers la documentation, code source, communauté, gouvernance, etc.).
 
-**✅ Communiquez régulièrement.**  
+**Communiquez régulièrement.**  
 Oui, ça peut sembler pénible, mais c’est essentiel. Les gens ne viennent pas spontanément vérifier les nouveautés de votre projet. À vous d’aller vers eux.
 
 > 💬 « Personne ne se dit "tiens, si j’allais faire un diff sur ce projet pour voir ce qui a changé ces trois derniers mois". »
 
-**✅ Utilisez les bons canaux.**  
-Selon votre domaine (librairies, applications, systèmes embarqués, systèmes d'information…), les espaces de communication changent. Ça peut être des réseaux sociaux, des forums techniques, des newsletters métier ou des canaux spécialisés. Identifiez-les, investissez-les.
+**Utilisez les bons canaux.**  
+Selon votre domaine (bibliothèques, applications, systèmes embarqués, systèmes d'information…), les espaces de communication changent. Ça peut être des réseaux sociaux, des forums techniques, des newsletters métier ou des canaux spécialisés. Identifiez-les, investissez-les.
 
-**✅ Faites des annonces.**  
+**Faites des annonces.**  
 Pas besoin d’attendre une nouvelle version officielle. Parlez des avancées, des orientations, des décisions techniques, de l’arrivée de nouveaux contributeurs. Montrez que le projet vit et évolue.
 
-**✅ Multipliez les formats.**  
+**Multipliez les formats.**  
 Interventions en conférence, articles de blog, interviews, podcasts : diversifiez vos moyens de communication. Chaque format touche une audience différente.
 
 #### 🛠️ Bonnes pratiques OSPO :
@@ -123,20 +124,18 @@ Mais le **logiciel libre**, aussi technique soit-il, est **un objet juridique**.
 
 Chaque fois que vous touchez à du code, vous touchez à quelque chose qui **a une double nature** :
 
-- C’est un **objet technique** : ça compile ou ça plante, ça marche ou ça crash.
+- C’est un **objet technique** : ça compile ou ça plante, ça marche ou ça crashe.
 
 - C’est un **objet juridique** : il est publié sous une licence, avec des conditions d’usage, de modification, de redistribution.
 
 Et mal gérer cet aspect, c’est **produire des “chimères juridiques”** : des assemblages de composants incompatibles entre eux, qui créent de vrais risques pour votre projet ou votre entreprise.
 
----
-
-### ✅ Adopter une licence libre… correctement
+#### Adoptez une licence libre ?
 
 Pas de licence = pas d’usage possible.  
 Un projet sans licence explicite **n’est pas un projet libre**.
 
-Choisir une licence n’est pas sorcier, mais ce n’est pas anodin :
+Choisir une licence n’est pas sorcier, mais ce n’est pas anodin, c'est votre **moteur de confiance principal** !
 
 - Utilisez des ressources comme :
   
@@ -146,17 +145,8 @@ Choisir une licence n’est pas sorcier, mais ce n’est pas anodin :
   
   - [OpenSource.org](https://opensource.org/)
 
-- **N’écrivez jamais votre propre licence !**
-  
-  - Une licence maison est un repoussoir.
-  
-  - Elle est souvent incompatible, incomprise, et inutilisable par d'autres.
-  
-  - Utilisez des licences **reconnues** (MIT, Apache 2.0, GPLv3, etc.)
-  
-  - Si vous voulez utiliser une [licence éthique](https://ethicalsource.dev/licenses/) pour indiquer votre engagement, réfléchissez bien à la façon dont vous la défendrez.
 
-Et surtout, **veillez à la compatibilité des dépendances**.  
+Veillez surtout à la **compatibilité des dépendances**.  
 Vous publiez un projet sous licence MIT ? Ne glissez pas dedans un composant sous GPL sans réfléchir. Ce serait créer une incohérence juridique majeure.
 
 ---
@@ -166,7 +156,7 @@ Vous publiez un projet sous licence MIT ? Ne glissez pas dedans un composant sou
 Qui détient les droits sur le code ?  
 Sans clarification, la situation est floue. Et le flou est toujours un frein à l’adoption ou à la contribution.
 
-C'est un peu la partie la plus relou. Hésitez pas à poser des questions à un juriste. Vous aurez aussi plus de détail sur la conférence de Sébastien Dinot : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 
+C'est un peu la partie la plus relou. N'hésitez pas à poser des questions à un juriste. Vous aurez aussi plus de détails sur la conférence de Sébastien Dinot : [Bien gérer son projet libre : que faire au-delà du code ? - Libre à lire !](https://www.librealire.org/bien-gerer-son-projet-libre-que-faire-au-dela-du-code) 
 
 Trois stratégies principales existent :
 
@@ -209,23 +199,9 @@ C’est la méthode **la plus simple**, utilisée notamment par la Linux Foundat
 
 - Cela se fait via l’option `-s` dans Git (`git commit -s`), qui ajoute automatiquement un champ `Signed-off-by`.
 
-🟢 Très léger administrativement.  
-🟡 Moins solide juridiquement que les CLA.  
-🔁 Mais comme c’est **fait à chaque commit**, cela crée un engagement renouvelé, automatique, fluide.
-
----
-
-### ⚙️ Bonnes pratiques OSPO côté juridique
-
-- 📌 **Affichez clairement la licence** du projet (dans le dépôt, la doc, le site…).
-
-- 🔎 **Vérifiez les licences des dépendances**, et assurez leur compatibilité.
-
-- 📂 Proposez un **modèle de DCO ou CLA prêt à l’usage**, selon le choix de votre projet.
-
-- 💬 Expliquez votre choix dans la documentation : cela instaure la confiance.
-
-- 🛑 N’acceptez **aucune contribution “sauvage”** sans validation juridique.
+- 🟢 Très léger administrativement.  
+- 🟡 Moins solide juridiquement que les CLA.  
+- 🔁 Mais comme c’est **fait à chaque commit**, cela crée un engagement renouvelé, automatique, fluide.
 
 ---
 
@@ -252,7 +228,7 @@ Même si c’est le troisième débutant de la semaine, tant qu’il n’abuse p
 Sébastien Dinot raconte que dans la communauté **Orekit**, une petite pratique s’est installée naturellement :  
 Quand quelqu’un **en demande trop**, qu’il **attend qu’on code à sa place**, les réponses… mettent un peu plus de temps à arriver ⏳.
 
-Évitez les conflits et les recadrage public. Juste un petit signal : « Bouge-toi un peu ».  
+Évitez les conflits et les recadrages publics. Juste un petit signal : « Bouge-toi un peu ».  
 💡 Et ça marche. Les gens font plus d’efforts, reviennent avec de meilleures questions.  
 ✅ Résultat : on **évite les tensions** et on **préserve l’ambiance générale**.
 
@@ -283,7 +259,9 @@ Pas de communauté pérenne sans **règles du jeu** claires. C’est là qu’in
 
 - Créer de la **confiance** ;
 
-- Permettre à chacun de **s’engager en conscience**---
+- Permettre à chacun de **s’engager en conscience**.
+
+---
 
 ### 🏛️ Quel modèle de gouvernance choisir ?
 
@@ -326,30 +304,11 @@ Le **jour où une personne toxique arrive**, vous serez bien content d’avoir u
 
 ---
 
-## ✅ En résumé
-
-🧠 Un bon cadre social, c’est :
-
-- De la bienveillance dès le départ ;
-
-- Une régulation douce des abus ;
-
-- Un support communautaire de qualité ;
-
-- Une gouvernance claire, souple et adaptée ;
-
-- Un code de conduite explicite, pour éviter les dérapages.
-
-💬 Vous avez du code ? Très bien.  
-Mais si vous avez aussi **une communauté qui se sent bien**, alors vous avez **un projet qui peut durer**. 🌟
-
----
-
 ## 💸 Étape 5 : Penser le **financement** dès le départ
 
 Oui, votre projet est **libre**.  
 Mais non, il n’est pas **gratuit**.  
-Et encore moins **auto-suffisant par magie** 🧙‍♂️.
+Et encore moins **autosuffisant par magie** 🧙‍♂️.
 
 Même le plus beau des projets open source a besoin de **ressources**, humaines **et** financières.
 
@@ -357,11 +316,11 @@ Même le plus beau des projets open source a besoin de **ressources**, humaines 
 
 Prenons un exemple concret : le projet **TiBillet**.
 
-- **30 années équivalent temps plein** de développement depuis sa création en 2010 
+- **30 années équivalent temps plein** de développement depuis sa création en 2010 ;
 
 - **3 000 € par an** pour les serveurs de prod, test et démonstration, pour la CI, les outils en ligne 🖥️ ;
 
-- Les déplacements dans les lieux et les salons, la rédaction de contrats de travail, de fiche de paye, etc...
+- Les déplacements dans les lieux et les salons, la rédaction de contrats de travail, de fiches de paye, etc.
 
 👉 Bref, derrière chaque commit, chaque réponse sur un forum, chaque release… il y a du **travail**, du **temps**, des **infrastructures**, et donc un **coût**.
 
@@ -397,11 +356,11 @@ C’est ce que nous expérimentons dans notre coopérative.
 💡 Le principe ?  
 
 On définit collectivement un **budget contributif**.  
-Ensuite, chaque personne décrit sa contribution (code, animation, documentation, support, etc.)  
+Ensuite, chaque personne décrit sa contribution (code, animation, documentation, support, etc.).  
 Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans marchandiser le temps.
 
 > On ne paie pas les gens à l’heure, on **reconnaît leur utilité** dans l’écosystème.  
-> C’est une logique de **coopération** plutôt que de compétition 💚.
+> C’est une logique de **coopération** plutôt que de compétition.
 
 ---
 
@@ -410,7 +369,7 @@ Puis tout le monde **vote** sur la **valeur ressentie** de chaque apport, sans m
 ✅ Le logiciel est libre,  
 ✅ La communauté est vivante,  
 ✅ La gouvernance est claire,  
-✅ Le cadre légal est posé,  
+✅ Le cadre légal est posé.
 
 Avec ça, vous ne lancez pas juste un dépôt Git.  
 

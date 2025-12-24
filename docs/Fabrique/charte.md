@@ -2,7 +2,7 @@
 slug: charte
 title: Charte et valeurs
 description: Les engagements et valeurs de la coopérative.
-sidebar_position: 3
+sidebar_position: 2
 tags: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
 keywords: [ licence libre, coopérative, économie sociale et solidaire, vie privée ]
 image: /img/CCC-charte-social-card.jpg
@@ -14,70 +14,54 @@ image: /img/CCC-charte-social-card.jpg
 
 Nous attachons beaucoup d'importance à la notion de
 communs [(1)](https://fr.wikipedia.org/wiki/Communs) [(2)](https://lescommuns.org/).
-Nous nous sommes donc constitué en société coopérative d'interet collectif ([SCIC](https://www.les-scic.coop/))
+
+Nous nous sommes donc constitués en société coopérative d'intérêt collectif ([SCIC](https://www.les-scic.coop/))
 pour avoir une structure porteuse en gouvernance partagée et horizontale.
 
-Aussi, nous pensons
-que [l'économie sociale et solidaire](https://fr.wikipedia.org/wiki/%C3%89conomie_sociale_et_solidaire)
-est un bon modèle qui permet de perréniser des projets libres et open source.
+Le développement de logiciel est une occasion parfaite de se réapproprier nos moyens de production. En ce sens, nous valorisons et créons des logiciels **libres** et **open source** pour une plus grande mutualisation des ressources et des savoirs.
 
-L'informatique est une occasion de se réaproprier des moyens de productions. En ce sens, nous valorisons et créons des
-logiciels **libres** et **open source** pour une plus grande mutualisation des ressources et des savoirs.
-
-Nous proposons aux contributeur.rices et utilisateur.irces de nos outils de rejoindre la
+Nous proposons aux contributeur·ices et utilisateur·ices de nos outils de rejoindre la
 coopérative pour prendre part aux décisions et à la gouvernance de l'entreprise et de ses projets.
 
-La coopérative repose sur plusieurs pilliers :
+La coopérative repose sur plusieurs piliers :
 
 ### La gouvernance partagée : une personne = une voix
 
-- La taille du capital investi et des parts sociale dans l'entreprise n'est pas determinant dans les prises de
+- La taille du capital investi et des parts sociales dans l'entreprise n'est pas déterminante dans les prises de
   décisions.
-- Décisions dans le temps long : Nous prenons le temps, via des outils numériques (Forum, chat), de discuter de chaque
-  décision importante.
-- Responsabilisation individuelle
-  et [Validation par consentement](https://movilab.org/wiki/Consentement_contre_consensus)
+- Décisions dans le temps long : Nous prenons le temps, via [des outils numériques](https://framavox.org/code-commun-tibillet/) de discuter de chaque décision importante avec une méthode de [Validation par consentement](https://movilab.org/wiki/Consentement_contre_consensus)
 - Inclusivité : Toutes et tous peuvent rejoindre la coopérative. Nous ne choisissons pas nos collègues ; c'est vous qui
   décidez de nous rejoindre et des missions que vous voulez réaliser.
 
 ### Lucrativité limitée : On rémunère le travail, pas le capital.
 
-- 100% des bénéfices sont ré-investi en reserve pour financer les contributeur.ice.s aux projets de la coopérative.
-- Transparence et budgets contributifs : Chacun est rémunéré.e en fonction de ce qu'iel estime juste et en toute
-  transparence.
-- Seule la coopérative peut vendre ou racheter des parts sociales. Elle ne peut donc pas subir de rachat par des
-  investisseurs extérieurs, ni jouer le jeu de la spéculation financière. les parts ne peuvent être vendues à un tiers,
-  et le prix de vente ne peut être supérieur à la valeur nominale.
-
-Exemple : Un.e contributeur.ice estime qu'il a besoin pour la tâche qu'il souhaite réaliser d'etre en CDD de 6 mois à un
-salaire de 2000€ net. La mission est un besoin soulevé par le collectif qui valide la demande. Cela peut être tout aussi
-valable pour une simple journée de travail. Mission courte ou longue, mi temps ou plein temps, c'est à chacun de
-décider.
+- 100% des bénéfices sont réinvestis en réserve pour financer les contributeur·ices aux projets de la coopérative.
+- [Transparence et budgets contributifs](https://codecommun.tibillet.coop/crowd/) : Chacun est rémunéré·e en fonction de ce qu'iel estime juste et en toute transparence.
+- Seule la coopérative peut vendre ou racheter des parts sociales. Elle ne peut donc pas subir de rachat par des investisseurs extérieurs, ni jouer le jeu de la spéculation financière. Les parts ne peuvent être vendues à un tiers, et le prix de vente ne peut être supérieur à la valeur nominale.
 
 ### Transparence des actions, mutualisation des besoins :
 
 - Liste des [tâches en cours et des besoins](https://github.com/orgs/TiBillet/projects) publics.
-- Canaux de discussion en ligne pour
-  échanger [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
-- Serveur pour des outils libre de travail en commun : Nextcloud, Outlines, BigBlueButton, Discourse, Element, etc ...
+- Canaux de discussion en ligne pour échanger : [Discord](https://discord.gg/pmVMJ4eMQB) & [Matrix](https://matrix.to/#/#TiBillet:tiers-lieux.org)
+- Outils d'émancipation pour coopérer : Nextcloud, Docs, Jitsi, Discourse, Element, etc ...
 
 ### 3 Catégories d'associés : 3 collèges de votes.
 
 Chaque catégorie d'associé est un collège qui possède 1/3 des votes lors du conseil d'administration et de gouvernance
 partagée.
 
-- Animatreur.trice.s.
-- Contributeur.trice.s
-- Utilisateur.trice.s.
+- Animateur·trice·s.
+- Contributeur·trice·s.
+- Utilisateur·trice·s.
 
 ### Un développement durable et humain.
 
 En choisissant de travailler avec nous, vous soutenez une équipe productrice de communs numériques.
-En nous choissisant pour développer des solutions comme pour administrer ou
+En nous choisissant pour développer des solutions comme pour administrer ou
 installer vos serveurs, vous participez également au développement d'outils libres.
-Aussi, une partie de nos bénéfices sont reversés aux équipes de développement des outils utilisés et installés.
+Aussi, une partie de nos bénéfices est reversée aux équipes de développement des outils utilisés et installés.
 
-Votre soutien à la coopérative nous permet de perreniser des activités éthiques et durables auprès d'artisan.e.s du
+Votre soutien à la coopérative nous permet de pérenniser des activités éthiques et durables auprès d'artisan·e·s du
 numérique.
 
 ### Vos données, vos serveurs, vos logiciels, votre coopérative.
