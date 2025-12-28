@@ -4,17 +4,114 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4f193c-a31c-44b4-b0df-f593d9f3777b" name="Changes" comment="add img">
+    <list default="true" id="da4f193c-a31c-44b4-b0df-f593d9f3777b" name="Changes" comment="remove: HeroCarousel component and related assets  &#10;cleanup: update homepage to simplify structure and content  &#10;docs: improve text in `communs.md` and restructure sections for clarity  &#10;fix: update `.gitignore` for `.yarn` entries">
+      <change afterPath="$PROJECT_DIR$/static/img/commons-principes-1920.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/elements/reyone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/elements/sevronbraz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/elements/sevronkler.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_achat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_adhésion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_boîte à outils.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_carte pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_collectifs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_laboutik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_lèspass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_publics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_qr code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_sans contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_volontariat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/falc/icone_évènement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/hdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/ldpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/mdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/scalable.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/xhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/xxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/icones/xxxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/png/icone_color_blkbgrd_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/png/logo_ile_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/png/logo_ile_fondblanc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/png/logo_ile_fondnoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/png/monochrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/couleur.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/icone-blanc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/icone-noir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/monochrome-web.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/monochrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/logos/svg/niveaux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/mockup-ticket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/outilstibillet.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/palette.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Bold/Luciole-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Bold/Luciole-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Bold/Luciole-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Bold/Luciole-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Bold/Luciole-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-BoldItalic/Luciole-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-BoldItalic/Luciole-BoldItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-BoldItalic/Luciole-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-BoldItalic/Luciole-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-BoldItalic/Luciole-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Italic/Luciole-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Italic/Luciole-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Italic/Luciole-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Italic/Luciole-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Italic/Luciole-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular/Luciole-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular/Luciole-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular/Luciole-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular/Luciole-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Luciole-Regular/Luciole-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Luciole/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/PlaywriteIS-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/static/PlaywriteIS-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/static/PlaywriteIS-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/static/PlaywriteIS-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Playwrite_IS/static/PlaywriteIS-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Staatliches/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/polices/Staatliches/Staatliches-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/recherches.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kit/social-card.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/9.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/.cache/webpack/client-development-fr/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Fabrique/charte.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Fabrique/charte.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Fabrique/communs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Fabrique/communs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Fabrique/ospo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Fabrique/ospo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Fabrique/ospo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SoftwareShowcase/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SoftwareShowcase/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="738" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -24,29 +121,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/jonas/Gits/CCCWebSite/docs/Fabrique",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "yarn:package.json:typescript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/paradigm-shift-experiment&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jonas/Gits/CCCWebSite/docs/Fabrique&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;yarn:package.json:typescript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/Fabrique" />
@@ -58,8 +158,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
-        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
@@ -81,6 +181,9 @@
       <workItem from="1746422184611" duration="3000" />
       <workItem from="1747415579148" duration="1142000" />
       <workItem from="1763614081151" duration="18000" />
+      <workItem from="1766831007205" duration="7995000" />
+      <workItem from="1766931153837" duration="89000" />
+      <workItem from="1766931262749" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="add presentation">
       <option name="closed" value="true" />

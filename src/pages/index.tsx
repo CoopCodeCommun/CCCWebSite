@@ -12,7 +12,7 @@ function HomepageHeader() {
         <header className={clsx('hero hero--primary background-image', styles.heroBanner)}>
             <div className="container">
                 <h1 className="hero__title overlay">Fabrique de Communs Numériques</h1>
-                <p className="hero__subtitle overlay">Des outils libres pour coopérer, partager et s'émanciper.</p>
+                <p className="hero__subtitle overlay">Des outils libres pour coopérer et s'émanciper.</p>
             </div>
         </header>
     );
@@ -26,11 +26,11 @@ function SectionCollectif() {
                 <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
                     Code Commun est une <strong>coopérative (SCIC)</strong>.
                     <br />
-                    Nous fabriquons des <strong>logiciels libres</strong> pour l'économie sociale et solidaire.
+                    Nous fabriquons des <strong>logiciels</strong> sous licences <strong>libres</strong>.
                     <br />
-                    Nous formons les gens à utiliser et créer ces outils.
+                    Nous formons autant à l'utilisation qu'a la création de ces outils.
                     <br />
-                    Nous travaillons ensemble, de manière transparente et partagée.
+                    Nous travaillons de manière transparente et partagée.
                 </p>
             </div>
         </div>
@@ -58,7 +58,7 @@ export default function Home(): JSX.Element {
             <main>
                 <SectionCollectif />
                 <SoftwareShowcase />
-                <Contributions />
+                {/*<Contributions />*/}
                 <SectionPartenairesTitle />
                 <Partenaires />
             </main>

@@ -1,15 +1,18 @@
 ---
-slug: ospo
+slug: programme
 title: Le programme
-description: Code commun, c'est Un OSPO. Ça veut dire quoi Open source program office ?
+description: Code commun, c'est entre une fabrique à communs et un OSPO. Ça veut dire quoi tout ça ?
 sidebar_position: 3
 tags: [ licence libre, coopérative, économie sociale et solidaire, commun numérique]
 image: /img/CCC-charte-social-card.jpg
+draft: true
 ---
 
-# :rocket: Ça fait quoi un OSPO ?
+:::info
+Code commun, c'est entre une fabrique communautaire et un OSPO. Ça veut dire quoi tout ça ?
+:::
 
-> OSPO pour Open Source Program Office, ou comment faire un projet open source réussi ?
+OSPO pour Open Source Program Office, ou comment faire un projet open source réussi ?
 
 Nous ne voyons loin que sur les épaules des géants, allons emprunter et synthétiser une partie du verbe de :
 
@@ -19,56 +22,33 @@ Nous ne voyons loin que sur les épaules des géants, allons emprunter et synth�
 
 Merci beaucoup à eux !
 
-Nous publions ici un résumé en mode pense-bête. J'avoue prendre du plaisir à le relire régulièrement et parfois à le modifier suivant nos expériences.
+Nous publions ici un résumé en mode pense-bête. J'avoue prendre du plaisir à le relire régulièrement et parfois à le modifier suivant nos expériences. La coopérative Code Commun emprunte cette direction et prend ce programme comme un guide, non pas comme un dogme. 
 
-La coopérative Code Commun emprunte cette direction. Le chemin est long, mais la voie est libre ! 💪
-
----
-
-## 🔍 Étape 1 – Construire sur les besoins
-
-Autrement dit : comprendre les attentes des utilisateurs et des contributeurs, récolter des informations sur le terrain, construire main dans la main avec les utilisateur·ices.
-
-Avant de vouloir attirer le monde vers votre projet, demandez-vous : **"Pourquoi viendraient-ils ?"**  
-Spoiler : ce ne sera jamais « pour vos beaux yeux », mais parce que **le projet répond à un besoin réel**, et qu’il est **accessible et agréable à utiliser ou à contribuer**.
-
-#### Côté utilisateurs : proposez un outil utile, utilisable et utilisé
-
-Comment passer de l'usage à la contribution ? 
-
-- **Le logiciel doit répondre à un besoin**, et non pas à une idée, même révolutionnaire :D
-
-- **Faites qu’il soit simple à mettre en œuvre.** Si l’installation prend 3 heures et qu'il est mal documenté, vous perdez tout le monde en chemin.
-
-- **Qu’il soit ergonomique, robuste et fiable.** Ce sont les bases d’un logiciel professionnel utilisable en production.
-
-- **Qu’il y ait une vraie documentation.** Ne répondez jamais : *« Lis le code, tu comprendras. »* Un projet non documenté, c’est un projet inutilisable, donc mort.
-
-- **Qu’un espace d’échange soit disponible.** Forum, canal Matrix, mailing-list, GitHub Discussions… Ce n’est pas du support client, c’est de la communauté vivante.
-
-> 📌 **Votre outil peut être modeste, mais il doit être clair, documenté et facile à découvrir.**
+Le chemin est long, mais la voie est libre !
 
 ---
 
-#### 🤝 Côté contributeurs : ouvrez, simplifiez, faites confiance
+## Construire sur les besoins
 
-Un contributeur ne demande pas l’impossible. Il veut pouvoir :
+Autrement dit : comprendre les attentes des utilisateur.ices, récolter des informations sur le terrain, construire main dans la main avec celles et ceux qui se servent de l'outil, et c'est encore mieux si on s'en sert soi même !
 
-- **Accéder au dépôt en continu.** Oubliez le “libre en interne” où l’on publie un `.tar.gz` tous les six mois. Un projet vivant est un projet avec un dépôt public, actif, accessible en permanence.
+L'idée principale est de passer de l'usage à la contribution :
 
-- **Lire une documentation technique claire.** Les contributeurs ne sont pas devins. Expliquez l’architecture, les principes, les processus de contribution.
+- **Le logiciel doit répondre à un besoin**, et non pas à une idée, même [révolutionnaire](https://ficd.sh/blog/your-project-sucks/) :D
 
-- **Utiliser des outils de collaboration modernes.** Git, CI/CD, système d’issues clair, etc. Montrez que vous accueillez les contributions avec soin.
+- **Il doit être simple à mettre en œuvre.** Si l’installation prend 3 heures et qu'il est mal documenté, vous perdez tout le monde en chemin.
 
-- **Trouver du code propre et bien conçu.** Personne ne veut déboguer un plat de spaghettis.
+- **Penser ergonomie, [robustesse](https://www.youtube.com/watch?v=SjE696nfbr0) et simplicité.** On s'en fiche que ta stack soit la dernière techno à la mode. Il faut que ça tienne dans le temps et que tout le monde puisse ouvrir le capot pour réparer. Pitié, pas d'intefaces [à la Soyouz](https://fr.wikipedia.org/wiki/Soyouz_(v%C3%A9hicule_spatial)#/media/Fichier:Jsc2006e33951.jpg) !
 
-- **Se sentir en confiance.** Transparence, bienveillance, communication ouverte : voilà les vraies bases d’un collectif contributif.
+- **Une vraie documentation.** Ne jamais répondre : *« Lis le code, tu comprendras. »* Un projet non documenté, c’est un projet inutilisable, donc mort. Sur TiBillet, par exemple, on tente de travailler sur une [méthode orienté usage](https://docs.divio.com/documentation-system/) et en [écriture collaborative](https://notes.liiib.re/docs/a65fc672-d634-4f49-bec3-212439df49eb/).
 
-> 💡 **Demandez-vous toujours : dans ce projet, est-ce que *vous-même* auriez envie de contribuer ?**
+- **Qu’un espace d’échange soit disponible.** Forum, canal Matrix, mailing-list, Ce n’est pas du support client, c’est de la communauté vivante. 
+
+> 📌 **L'outil peut être modeste, mais il doit être clair, documenté et facile à découvrir.**
 
 ---
 
-#### 🛠️ Bonnes pratiques OSPO :
+#### Bonnes pratiques :
 
 - Faites une **checklist des attentes utilisateur/contributeur**, cochez ce qui est déjà en place.
 
@@ -78,11 +58,9 @@ Un contributeur ne demande pas l’impossible. Il veut pouvoir :
 
 - Gardez en tête la **valeur de la confiance** : la transparence est un investissement, pas une option.
 
-## 🧭 Étape 2 – Faire connaître votre projet libre : la communication externe
+## Faire connaître le commun : la communication externe
 
-L’un des piliers pour faire vivre un projet open source, c’est **la visibilité**. On a beau avoir un code génial, bien structuré et documenté, **si personne ne le sait, personne ne viendra**.
-
-#### 🎯 Objectif : rendre votre projet identifiable et vivant
+L’un des piliers pour faire vivre un projet open source, c’est la visibilité. On a beau avoir un code génial, bien structuré et documenté, si personne ne le sait, personne ne viendra.
 
 **Créez un site vitrine.**  
 Un point d’ancrage incontournable pour tout projet. Il permet de centraliser l’information et de servir de référence officielle (présentation du projet, liens vers la documentation, code source, communauté, gouvernance, etc.).

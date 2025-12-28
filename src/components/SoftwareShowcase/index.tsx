@@ -12,43 +12,50 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: 'TiBillet / Lèspass',
-        img: '/img/demo/BilletDemo1300Thumb.jpg',
-        link: '/docs/Creations/tibillet-ticketing',
+        title: 'TiBillet',
+        img: '/img/kit/logos/png/monochrome.png',
+        link: 'https://tibillet.org/fr',
         description: (
             <>
-                Gérez vos événements, vos adhésions, et vos réservations.
-                Une billetterie complète et libre.
+                Tibillet est une suite d'outils pour faciliter nos organisations collectives : système de caisse,
+                adhésions/abonnement, monnaie temps/locales, billetterie, cashless, agenda fédéré, Sécurité Sociale
+                Alimentaire...
+                Une solution complète et libre.
             </>
         ),
     },
     {
-        title: 'Fedow',
-        img: '/img/demo/cartes.jpg',
-        link: '/docs/Creations/tibillet-fedow',
+        title: 'O2Badge',
+        img: '/img/badge_blanc.png',
+        link: 'https://github.com/CoopCodeCommun/FossBadge',
         description: (
             <>
-                Un portefeuille numérique fédéré pour votre monnaie locale, temps ou cashless.
+                Plateforme de complète de gestion de badges numériques ouverts (Open Badges). Valorisons collectivement
+                nos savoirs-faire et tout ce qui relève de l’expérience humaine !
             </>
         ),
     },
+    // {
+    //     title: 'Hypostasia',
+    //     img: '/img/undraw_share_link_re_54rx.svg',
+    //     link: 'https://beta.hypostasia.org/',
+    //     description: (
+    //         <>
+    //             Outil d'analyse hypermédia.
+    //         </>
+    //     ),
+    // },
     {
-        title: 'OpenBadge',
-        img: '/img/undraw_open_source_-1-qxw.svg',
-        link: 'https://badge.codecommun.coop/',
+        title: 'Reparons.org',
+        img: '/img/soudure.png',
+        link: 'https://reparons.org/',
         description: (
             <>
-                Plateforme de délivrance de badges numériques ouverts (Open Badges).
-            </>
-        ),
-    },
-    {
-        title: 'Hypostasia',
-        img: '/img/undraw_share_link_re_54rx.svg',
-        link: 'https://beta.hypostasia.org/',
-        description: (
-            <>
-                Outil d'analyse hypermédia.
+                Plateforme libre
+                de réservation d'ateliers de
+                réparation
+                Vous avez envie de réparer ou de créer ?
+                Prenez rendez-vous et nous le faisons ensemble !
             </>
         ),
     },
@@ -64,12 +71,13 @@ const FeatureList: FeatureItem[] = [
     },
 ];
 
-function Feature({ title, img, link, description }: FeatureItem) {
+function Feature({title, img, link, description}: FeatureItem) {
     return (
         <div className={clsx('col col--4 margin-bottom--lg')}>
             <div className="text--center">
                 <Link to={link}>
-                    <img src={img} className={styles.featureSvg} alt={title} style={{ height: '150px', objectFit: 'contain', borderRadius: '10px' }} />
+                    <img src={img} className={styles.featureSvg} alt={title}
+                         style={{height: '150px', objectFit: 'contain', borderRadius: '10px'}}/>
                 </Link>
             </div>
             <div className="text--center padding-horiz--md">
@@ -87,10 +95,10 @@ function Feature({ title, img, link, description }: FeatureItem) {
 
 export default function SoftwareShowcase(): JSX.Element {
     return (
-        <section className={styles.features} style={{ padding: '4rem 0' }}>
+        <section className={styles.features} style={{padding: '4rem 0'}}>
             <div className="container">
-                <h2 className="text--center margin-bottom--lg">On maintient</h2>
-                <div className="row" style={{ justifyContent: 'center' }}>
+                <h2 className="text--center margin-bottom--lg">nous maintenons et contribuons à :</h2>
+                <div className="row" style={{justifyContent: 'center'}}>
                     {FeatureList.map((props, idx) => (
                         <Feature key={idx} {...props} />
                     ))}
